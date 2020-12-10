@@ -67,19 +67,15 @@
         <card number="1" name="Tragic Arrogance"/>
         <card number="1" name="Seedborn Muse"/>
         <card number="1" name="Tempt with Discovery"/>
-        <card number="1" name="Ajani, Mentor of Heroes"/>
         <card number="1" name="Ajani Unyielding"/>
-        <card number="1" name="Darksteel Mutation"/>
         <card number="1" name="Seal of Primordium"/>
         <card number="1" name="Blackblade Reforged"/>
         <card number="1" name="Broken Wings"/>
         <card number="1" name="Wilt"/>
         <card number="1" name="Krosan Grip"/>
         <card number="1" name="Steelbane Hydra"/>
-        <card number="1" name="Aether Vial"/>
         <card number="1" name="New Frontiers"/>
         <card number="1" name="Colossification"/>
-        <card number="1" name="Fireshrieker"/>
         <card number="1" name="Aven Mindcensor"/>
         <card number="1" name="Ram Through"/>
         <card number="1" name="Natural Reclamation"/>
@@ -87,6 +83,10 @@
         <card number="1" name="Sage's Reverie"/>
         <card number="1" name="Linvala, Keeper of Silence"/>
         <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Bear Umbra"/>
+        <card number="1" name="Shield of the Oversoul"/>
+        <card number="1" name="Survival of the Fittest"/>
     </zone>
     <zone name="side">
         <card number="1" name="Shalai, Voice of Plenty"/>
@@ -135,22 +135,24 @@
         <card number="1" name="Eidolon of Rhetoric"/>
         <card number="1" name="Primeval Protector"/>
         <card number="1" name="Forebear's Blade"/>
-        <card number="1" name="Shield of the Oversoul"/>
         <card number="1" name="Collective Unconscious"/>
         <card number="1" name="Armadillo Cloak"/>
         <card number="1" name="Beast Whisperer"/>
         <card number="1" name="True Conviction"/>
         <card number="1" name="Karametra, God of Harvests"/>
         <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Survival of the Fittest"/>
         <card number="1" name="Sphere of Safety"/>
         <card number="1" name="Appetite for the Unnatural"/>
         <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Mirari's Wake"/>
-        <card number="1" name="Bear Umbra"/>
         <card number="1" name="Dragonlord Dromoka"/>
         <card number="1" name="Ethereal Armor"/>
         <card number="1" name="Elesh Norn, Grand Cenobite"/>
         <card number="1" name="Archon of Justice"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Battle Mastery"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Aether Vial"/>
+        <card number="1" name="Ajani, Mentor of Heroes"/>
     </zone>
 </cockatrice_deck>
