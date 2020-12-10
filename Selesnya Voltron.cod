@@ -14,10 +14,8 @@
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Birds of Paradise"/>
-        <card number="1" name="Elesh Norn, Grand Cenobite"/>
         <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Mangara, the Diplomat"/>
-        <card number="1" name="Archon of Justice"/>
         <card number="1" name="Archon of Coronation"/>
         <card number="1" name="Archon of Valor's Reach"/>
         <card number="1" name="Gavony Township"/>
@@ -56,7 +54,6 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Alms Collector"/>
-        <card number="1" name="Ethereal Armor"/>
         <card number="1" name="Avacyn, Angel of Hope"/>
         <card number="8" name="Forest"/>
         <card number="9" name="Plains"/>
@@ -87,6 +84,9 @@
         <card number="1" name="Ram Through"/>
         <card number="1" name="Natural Reclamation"/>
         <card number="1" name="Rout"/>
+        <card number="1" name="Sage's Reverie"/>
+        <card number="1" name="Linvala, Keeper of Silence"/>
+        <card number="1" name="Rampant Growth"/>
     </zone>
     <zone name="side">
         <card number="1" name="Shalai, Voice of Plenty"/>
@@ -111,9 +111,7 @@
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Collector Ouphe"/>
         <card number="1" name="Cultivate"/>
-        <card number="1" name="Linvala, Keeper of Silence"/>
         <card number="1" name="Kinjalli's Sunwing"/>
-        <card number="1" name="Sage's Reverie"/>
         <card number="1" name="Sigarda's Aid"/>
         <card number="1" name="Day of Judgment"/>
         <card number="1" name="Luminarch Ascension"/>
@@ -139,7 +137,6 @@
         <card number="1" name="Forebear's Blade"/>
         <card number="1" name="Shield of the Oversoul"/>
         <card number="1" name="Collective Unconscious"/>
-        <card number="1" name="Rampant Growth"/>
         <card number="1" name="Armadillo Cloak"/>
         <card number="1" name="Beast Whisperer"/>
         <card number="1" name="True Conviction"/>
@@ -152,5 +149,8 @@
         <card number="1" name="Mirari's Wake"/>
         <card number="1" name="Bear Umbra"/>
         <card number="1" name="Dragonlord Dromoka"/>
+        <card number="1" name="Ethereal Armor"/>
+        <card number="1" name="Elesh Norn, Grand Cenobite"/>
+        <card number="1" name="Archon of Justice"/>
     </zone>
 </cockatrice_deck>

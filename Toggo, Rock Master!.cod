@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Toggo, Goblin Weaponsmith"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Nahiri's Lithoforming"/>
+        <card number="1" name="Valakut Awakening"/>
+        <card number="1" name="Goblin Charbelcher"/>
+        <card number="1" name="Sword of the Meek"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Blinkmoth Urn"/>
+        <card number="1" name="Valakut, the Molten Pinnacle"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Megatog"/>
+    </zone>
+</cockatrice_deck>
