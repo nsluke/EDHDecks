@@ -11,7 +11,6 @@
         <card number="1" name="Runic Armasaur"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Eladamri's Call"/>
-        <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Birds of Paradise"/>
         <card number="1" name="Reclamation Sage"/>
@@ -73,7 +72,6 @@
         <card number="1" name="Broken Wings"/>
         <card number="1" name="Wilt"/>
         <card number="1" name="Krosan Grip"/>
-        <card number="1" name="Steelbane Hydra"/>
         <card number="1" name="New Frontiers"/>
         <card number="1" name="Colossification"/>
         <card number="1" name="Aven Mindcensor"/>
@@ -87,6 +85,8 @@
         <card number="1" name="Bear Umbra"/>
         <card number="1" name="Shield of the Oversoul"/>
         <card number="1" name="Survival of the Fittest"/>
+        <card number="1" name="Battle Mastery"/>
+        <card number="1" name="Ethereal Armor"/>
     </zone>
     <zone name="side">
         <card number="1" name="Shalai, Voice of Plenty"/>
@@ -146,13 +146,14 @@
         <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Mirari's Wake"/>
         <card number="1" name="Dragonlord Dromoka"/>
-        <card number="1" name="Ethereal Armor"/>
         <card number="1" name="Elesh Norn, Grand Cenobite"/>
         <card number="1" name="Archon of Justice"/>
         <card number="1" name="Fireshrieker"/>
-        <card number="1" name="Battle Mastery"/>
         <card number="1" name="Darksteel Mutation"/>
         <card number="1" name="Aether Vial"/>
         <card number="1" name="Ajani, Mentor of Heroes"/>
+        <card number="1" name="Steelbane Hydra"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Sword of Vengeance"/>
     </zone>
 </cockatrice_deck>
