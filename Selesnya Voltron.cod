@@ -17,7 +17,6 @@
         <card number="1" name="Mangara, the Diplomat"/>
         <card number="1" name="Archon of Coronation"/>
         <card number="1" name="Archon of Valor's Reach"/>
-        <card number="1" name="Gavony Township"/>
         <card number="1" name="Strip Mine"/>
         <card number="1" name="Emeria, the Sky Ruin"/>
         <card number="1" name="Maze of Ith"/>
@@ -40,7 +39,6 @@
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Serra's Sanctum"/>
         <card number="1" name="The Great Henge"/>
-        <card number="1" name="Harmonious Archon"/>
         <card number="1" name="Ancestral Mask"/>
         <card number="1" name="All That Glitters"/>
         <card number="1" name="Rancor"/>
@@ -52,7 +50,6 @@
         <card number="1" name="Hall of Heliod's Generosity"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Alms Collector"/>
         <card number="1" name="Avacyn, Angel of Hope"/>
         <card number="8" name="Forest"/>
         <card number="9" name="Plains"/>
@@ -81,15 +78,17 @@
         <card number="1" name="Sage's Reverie"/>
         <card number="1" name="Linvala, Keeper of Silence"/>
         <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Bear Umbra"/>
         <card number="1" name="Shield of the Oversoul"/>
         <card number="1" name="Survival of the Fittest"/>
         <card number="1" name="Battle Mastery"/>
         <card number="1" name="Ethereal Armor"/>
+        <card number="1" name="Sword of Vengeance"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Lyra Dawnbringer"/>
+        <card number="1" name="Homeward Path"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Shalai, Voice of Plenty"/>
         <card number="1" name="Nevermore"/>
         <card number="1" name="Meekstone"/>
         <card number="1" name="Static Orb"/>
@@ -123,7 +122,6 @@
         <card number="1" name="Thalia, Guardian of Thraben"/>
         <card number="1" name="Emeria's Call"/>
         <card number="1" name="Sword of Feast and Famine"/>
-        <card number="1" name="Fumigate"/>
         <card number="1" name="Wall of Nets"/>
         <card number="1" name="Pacifism"/>
         <card number="1" name="Sungrass Prairie"/>
@@ -154,6 +152,10 @@
         <card number="1" name="Ajani, Mentor of Heroes"/>
         <card number="1" name="Steelbane Hydra"/>
         <card number="1" name="Llanowar Elves"/>
-        <card number="1" name="Sword of Vengeance"/>
+        <card number="1" name="Harmonious Archon"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="1" name="Alms Collector"/>
+        <card number="1" name="Gavony Township"/>
     </zone>
 </cockatrice_deck>

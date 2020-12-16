@@ -6,11 +6,8 @@
         <card number="1" name="Gemrazer"/>
         <card number="1" name="Migratory Greathorn"/>
         <card number="1" name="Sea-Dasher Octopus"/>
-        <card number="1" name="Nezahal, Primal Tide"/>
-        <card number="1" name="Glasspool Mimic"/>
         <card number="1" name="Cragcrown Pathway"/>
         <card number="1" name="Riverglide Pathway"/>
-        <card number="1" name="Parcelbeast"/>
         <card number="1" name="Everquill Phoenix"/>
         <card number="1" name="Birds of Paradise"/>
         <card number="1" name="Gladecover Scout"/>
@@ -23,10 +20,8 @@
         <card number="1" name="Quartzwood Crasher"/>
         <card number="1" name="Nylea, Keen-Eyed"/>
         <card number="1" name="Silhana Ledgewalker"/>
-        <card number="1" name="Spark Double"/>
         <card number="1" name="Maelstrom Wanderer"/>
         <card number="1" name="Nyxbloom Ancient"/>
-        <card number="1" name="Progenitor Mimic"/>
         <card number="1" name="Hydra Omnivore"/>
         <card number="1" name="Questing Beast"/>
         <card number="1" name="Radha, Heart of Keld"/>
@@ -47,11 +42,9 @@
         <card number="1" name="Thwart the Enemy"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Ponder"/>
-        <card number="1" name="Decimate"/>
         <card number="1" name="Ketria Crystal"/>
         <card number="1" name="Ketria Triome"/>
         <card number="1" name="Vastwood Hydra"/>
-        <card number="1" name="Nissa, Steward of Elements"/>
         <card number="1" name="Footfall Crater"/>
         <card number="1" name="Primal Empathy"/>
         <card number="1" name="Song of Creation"/>
@@ -61,17 +54,13 @@
         <card number="1" name="Bonders' Enclave"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Genesis Ultimatum"/>
-        <card number="1" name="Quasiduplicate"/>
-        <card number="1" name="Mythos of Illuna"/>
         <card number="1" name="Lead the Stampede"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Embercleave"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Reconnaissance Mission"/>
-        <card number="7" name="Forest"/>
+        <card number="8" name="Forest"/>
         <card number="6" name="Island"/>
         <card number="5" name="Mountain"/>
         <card number="1" name="Castle Embereth"/>
@@ -86,6 +75,16 @@
         <card number="1" name="Animar, Soul of Elements"/>
         <card number="1" name="Silent Arbiter"/>
         <card number="1" name="Trumpeting Gnarr"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Oko, Thief of Crowns"/>
+        <card number="1" name="Vivien, Champion of the Wilds"/>
+        <card number="1" name="Vivien, Monsters' Advocate"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Season of Growth"/>
+        <card number="1" name="Fiery Emancipation"/>
+        <card number="1" name="Colossification"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Embercleave"/>
     </zone>
     <zone name="side">
         <card number="1" name="Illuna, Apex of Wishes"/>
@@ -95,5 +94,18 @@
         <card number="1" name="Scute Swarm"/>
         <card number="1" name="Surrak Dragonclaw"/>
         <card number="1" name="The Ozolith"/>
+        <card number="1" name="Nissa, Steward of Elements"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Spark Double"/>
+        <card number="1" name="Progenitor Mimic"/>
+        <card number="1" name="Glasspool Mimic"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Quasiduplicate"/>
+        <card number="1" name="Mythos of Illuna"/>
+        <card number="1" name="Decimate"/>
+        <card number="1" name="Lithoform Engine"/>
+        <card number="1" name="Parcelbeast"/>
     </zone>
 </cockatrice_deck>
