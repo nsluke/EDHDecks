@@ -4,25 +4,20 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Gemrazer"/>
-        <card number="1" name="Migratory Greathorn"/>
         <card number="1" name="Sea-Dasher Octopus"/>
         <card number="1" name="Cragcrown Pathway"/>
         <card number="1" name="Riverglide Pathway"/>
         <card number="1" name="Everquill Phoenix"/>
         <card number="1" name="Birds of Paradise"/>
         <card number="1" name="Gladecover Scout"/>
-        <card number="1" name="Cold-Eyed Selkie"/>
         <card number="1" name="Elder Gargaroth"/>
         <card number="1" name="Mysterious Egg"/>
         <card number="1" name="Paradise Druid"/>
         <card number="1" name="Darksteel Myr"/>
         <card number="1" name="Troll Ascetic"/>
         <card number="1" name="Quartzwood Crasher"/>
-        <card number="1" name="Nylea, Keen-Eyed"/>
         <card number="1" name="Silhana Ledgewalker"/>
         <card number="1" name="Maelstrom Wanderer"/>
-        <card number="1" name="Nyxbloom Ancient"/>
-        <card number="1" name="Hydra Omnivore"/>
         <card number="1" name="Questing Beast"/>
         <card number="1" name="Radha, Heart of Keld"/>
         <card number="1" name="Seedborn Muse"/>
@@ -33,7 +28,6 @@
         <card number="1" name="Cyclonic Rift"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Evacuation"/>
-        <card number="1" name="Valakut Awakening"/>
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Harrow"/>
         <card number="1" name="Temur Charm"/>
@@ -44,8 +38,6 @@
         <card number="1" name="Ponder"/>
         <card number="1" name="Ketria Crystal"/>
         <card number="1" name="Ketria Triome"/>
-        <card number="1" name="Vastwood Hydra"/>
-        <card number="1" name="Footfall Crater"/>
         <card number="1" name="Primal Empathy"/>
         <card number="1" name="Song of Creation"/>
         <card number="1" name="Rogue's Passage"/>
@@ -76,15 +68,24 @@
         <card number="1" name="Silent Arbiter"/>
         <card number="1" name="Trumpeting Gnarr"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Oko, Thief of Crowns"/>
-        <card number="1" name="Vivien, Champion of the Wilds"/>
         <card number="1" name="Vivien, Monsters' Advocate"/>
         <card number="1" name="Rhystic Study"/>
-        <card number="1" name="Season of Growth"/>
-        <card number="1" name="Fiery Emancipation"/>
         <card number="1" name="Colossification"/>
         <card number="1" name="Tempt with Discovery"/>
         <card number="1" name="Embercleave"/>
+        <card number="1" name="Dictate of Kruphix"/>
+        <card number="1" name="Auspicious Starrix"/>
+        <card number="1" name="Dreamtail Heron"/>
+        <card number="1" name="Glowstone Recluse"/>
+        <card number="1" name="Essence Symbiote"/>
+        <card number="1" name="Heartbeat of Spring"/>
+        <card number="1" name="Sword of Feast and Famine"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="Hydra's Growth"/>
+        <card number="1" name="Runes of the Deus"/>
+        <card number="1" name="Sword of Vengeance"/>
+        <card number="1" name="Tamiyo, Collector of Tales"/>
     </zone>
     <zone name="side">
         <card number="1" name="Illuna, Apex of Wishes"/>
@@ -107,5 +108,22 @@
         <card number="1" name="Decimate"/>
         <card number="1" name="Lithoform Engine"/>
         <card number="1" name="Parcelbeast"/>
+        <card number="1" name="Season of Growth"/>
+        <card number="1" name="Oko, Thief of Crowns"/>
+        <card number="1" name="Vivien, Champion of the Wilds"/>
+        <card number="1" name="Pollywog Symbiote"/>
+        <card number="1" name="Nyxbloom Ancient"/>
+        <card number="1" name="Nylea, Keen-Eyed"/>
+        <card number="1" name="Cold-Eyed Selkie"/>
+        <card number="1" name="Hydra Omnivore"/>
+        <card number="1" name="Champion's Helm"/>
+        <card number="1" name="Fiery Emancipation"/>
+        <card number="1" name="Footfall Crater"/>
+        <card number="1" name="Dream Halls"/>
+        <card number="1" name="Migratory Greathorn"/>
+        <card number="1" name="Vastwood Hydra"/>
+        <card number="1" name="Blood Sun"/>
+        <card number="1" name="Valakut Awakening"/>
+        <card number="1" name="Sword of Light and Shadow"/>
     </zone>
 </cockatrice_deck>
