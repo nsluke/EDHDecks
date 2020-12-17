@@ -85,7 +85,7 @@
         <card number="1" name="Hydra's Growth"/>
         <card number="1" name="Runes of the Deus"/>
         <card number="1" name="Sword of Vengeance"/>
-        <card number="1" name="Tamiyo, Collector of Tales"/>
+        <card number="1" name="Jace, Ingenious Mind-Mage"/>
     </zone>
     <zone name="side">
         <card number="1" name="Illuna, Apex of Wishes"/>
@@ -125,5 +125,7 @@
         <card number="1" name="Blood Sun"/>
         <card number="1" name="Valakut Awakening"/>
         <card number="1" name="Sword of Light and Shadow"/>
+        <card number="1" name="Tamiyo, Collector of Tales"/>
+        <card number="1" name="Jace Beleren"/>
     </zone>
 </cockatrice_deck>

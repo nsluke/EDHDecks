@@ -4,8 +4,6 @@
     <comments></comments>
     <zone name="side">
         <card number="1" name="Rhys the Redeemed"/>
-        <card number="1" name="Brushland"/>
-        <card number="1" name="Razorverge Thicket"/>
     </zone>
     <zone name="main">
         <card number="1" name="Mirari's Wake"/>
