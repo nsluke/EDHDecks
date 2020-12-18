@@ -4,18 +4,101 @@
     <comments></comments>
     <zone name="side">
         <card number="1" name="Toggo, Goblin Weaponsmith"/>
+        <card number="1" name="Kodama of the East Tree"/>
+        <card number="1" name="Khalni Hydra"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Grand Warlord Radha"/>
+        <card number="1" name="Blood Moon"/>
+        <card number="1" name="Khalni Heart Expedition"/>
+        <card number="1" name="Crash of Rhino Beetles"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Allosaurus Rider"/>
+        <card number="1" name="Zendikar's Roil"/>
+        <card number="1" name="Nissa, Genesis Mage"/>
+        <card number="1" name="Boundless Realms"/>
+        <card number="1" name="Burgeoning"/>
+        <card number="1" name="Megatog"/>
+        <card number="1" name="Nissa, Voice of Zendikar"/>
+        <card number="1" name="Kamahl, Heart of Krosa"/>
+        <card number="1" name="Jeska, Thrice Reborn"/>
     </zone>
     <zone name="main">
         <card number="1" name="Nahiri's Lithoforming"/>
         <card number="1" name="Valakut Awakening"/>
-        <card number="1" name="Goblin Charbelcher"/>
-        <card number="1" name="Sword of the Meek"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Blinkmoth Urn"/>
         <card number="1" name="Valakut, the Molten Pinnacle"/>
-        <card number="1" name="Nykthos, Shrine to Nyx"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Megatog"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Phylath, World Sculptor"/>
+        <card number="1" name="Omnath, Locus of Rage"/>
+        <card number="1" name="Radha, Heir to Keld"/>
+        <card number="1" name="Radha, Heart of Keld"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Roiling Regrowth"/>
+        <card number="1" name="Ramunap Excavator"/>
+        <card number="1" name="Crucible of Worlds"/>
+        <card number="1" name="Ancient Greenwarden"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Moraug, Fury of Akoum"/>
+        <card number="1" name="Jaddi Offshoot"/>
+        <card number="1" name="Exploration"/>
+        <card number="1" name="Mina and Denn, Wildborn"/>
+        <card number="1" name="Scale the Heights"/>
+        <card number="1" name="Explore"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Enter the Unknown"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Wayward Swordtooth"/>
+        <card number="1" name="Escape to the Wilds"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Undergrowth Champion"/>
+        <card number="1" name="Azusa, Lost but Seeking"/>
+        <card number="1" name="Rubblehulk"/>
+        <card number="1" name="Ulvenwald Hydra"/>
+        <card number="1" name="Jiang Yanggu"/>
+        <card number="1" name="Molimo, Maro-Sorcerer"/>
+        <card number="1" name="Strength of Cedars"/>
+        <card number="1" name="Ashaya, Soul of the Wild"/>
+        <card number="1" name="Dokai, Weaver of Life"/>
+        <card number="1" name="Zendikar Incarnate"/>
+        <card number="1" name="Ground Assault"/>
+        <card number="1" name="Struggle // Survive"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Multani, Yavimaya's Avatar"/>
+        <card number="1" name="Scute Mob"/>
+        <card number="1" name="Llanowar Scout"/>
+        <card number="1" name="Nissa, Who Shakes the World"/>
+        <card number="1" name="Nissa's Renewal"/>
+        <card number="1" name="Runic Armasaur"/>
+        <card number="1" name="Elder Gargaroth"/>
+        <card number="1" name="Kazandu Nectarpot"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Khalni Ambush"/>
+        <card number="1" name="Sylvan Awakening"/>
+        <card number="1" name="Horn of Greed"/>
+        <card number="1" name="Ghirapur Orrery"/>
+        <card number="1" name="The Great Henge"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Rites of Flourishing"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="12" name="Forest"/>
+        <card number="12" name="Mountain"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="New Frontiers"/>
+        <card number="1" name="Howling Mine"/>
+        <card number="1" name="Temple Bell"/>
     </zone>
 </cockatrice_deck>
