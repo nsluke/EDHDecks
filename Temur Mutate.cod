@@ -12,21 +12,16 @@
         <card number="1" name="Gladecover Scout"/>
         <card number="1" name="Elder Gargaroth"/>
         <card number="1" name="Mysterious Egg"/>
-        <card number="1" name="Paradise Druid"/>
         <card number="1" name="Darksteel Myr"/>
-        <card number="1" name="Troll Ascetic"/>
         <card number="1" name="Quartzwood Crasher"/>
         <card number="1" name="Silhana Ledgewalker"/>
-        <card number="1" name="Maelstrom Wanderer"/>
         <card number="1" name="Questing Beast"/>
         <card number="1" name="Radha, Heart of Keld"/>
         <card number="1" name="Seedborn Muse"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Growth Spiral"/>
         <card number="1" name="Cyclonic Rift"/>
-        <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Evacuation"/>
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Harrow"/>
@@ -46,7 +41,6 @@
         <card number="1" name="Bonders' Enclave"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Genesis Ultimatum"/>
-        <card number="1" name="Lead the Stampede"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Arcane Signet"/>
@@ -68,7 +62,6 @@
         <card number="1" name="Silent Arbiter"/>
         <card number="1" name="Trumpeting Gnarr"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Vivien, Monsters' Advocate"/>
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Colossification"/>
         <card number="1" name="Tempt with Discovery"/>
@@ -79,13 +72,20 @@
         <card number="1" name="Glowstone Recluse"/>
         <card number="1" name="Essence Symbiote"/>
         <card number="1" name="Heartbeat of Spring"/>
-        <card number="1" name="Sword of Feast and Famine"/>
         <card number="1" name="Darksteel Plate"/>
         <card number="1" name="Shadowspear"/>
         <card number="1" name="Hydra's Growth"/>
         <card number="1" name="Runes of the Deus"/>
         <card number="1" name="Sword of Vengeance"/>
-        <card number="1" name="Jace, Ingenious Mind-Mage"/>
+        <card number="1" name="Slippery Bogle"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Jace Beleren"/>
+        <card number="1" name="Hammer of Nazahn"/>
+        <card number="1" name="Invisible Stalker"/>
+        <card number="1" name="Witchstalker"/>
+        <card number="1" name="Flitterstep Eidolon"/>
+        <card number="1" name="Spearpoint Oread"/>
+        <card number="1" name="Vivien, Champion of the Wilds"/>
     </zone>
     <zone name="side">
         <card number="1" name="Illuna, Apex of Wishes"/>
@@ -126,6 +126,18 @@
         <card number="1" name="Valakut Awakening"/>
         <card number="1" name="Sword of Light and Shadow"/>
         <card number="1" name="Tamiyo, Collector of Tales"/>
-        <card number="1" name="Jace Beleren"/>
+        <card number="1" name="Maelstrom Wanderer"/>
+        <card number="1" name="Lead the Stampede"/>
+        <card number="1" name="Jace, Ingenious Mind-Mage"/>
+        <card number="1" name="That Which Was Taken"/>
+        <card number="1" name="Shield of Kaldra"/>
+        <card number="1" name="Troll Ascetic"/>
+        <card number="1" name="Sword of Feast and Famine"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Bassara Tower Archer"/>
+        <card number="1" name="Vivien, Monsters' Advocate"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Return of the Wildspeaker"/>
     </zone>
 </cockatrice_deck>

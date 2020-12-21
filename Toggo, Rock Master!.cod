@@ -22,16 +22,30 @@
         <card number="1" name="Nissa, Voice of Zendikar"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
         <card number="1" name="Jeska, Thrice Reborn"/>
+        <card number="1" name="Omnath, Locus of Rage"/>
+        <card number="1" name="Undergrowth Champion"/>
+        <card number="1" name="Zendikar Incarnate"/>
+        <card number="1" name="Dokai, Weaver of Life"/>
+        <card number="1" name="Retreat to Kazandu"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Escape to the Wilds"/>
+        <card number="1" name="Nahiri's Lithoforming"/>
+        <card number="1" name="Sasaya's Essence"/>
+        <card number="1" name="Budoka Gardener"/>
+        <card number="1" name="Molimo, Maro-Sorcerer"/>
+        <card number="1" name="Rubblehulk"/>
+        <card number="1" name="Khalni Ambush"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Nissa's Renewal"/>
+        <card number="1" name="Farseek"/>
     </zone>
     <zone name="main">
-        <card number="1" name="Nahiri's Lithoforming"/>
         <card number="1" name="Valakut Awakening"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Valakut, the Molten Pinnacle"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Phylath, World Sculptor"/>
-        <card number="1" name="Omnath, Locus of Rage"/>
         <card number="1" name="Radha, Heir to Keld"/>
         <card number="1" name="Radha, Heart of Keld"/>
         <card number="1" name="Scute Swarm"/>
@@ -51,20 +65,14 @@
         <card number="1" name="Enter the Unknown"/>
         <card number="1" name="Dryad of the Ilysian Grove"/>
         <card number="1" name="Wayward Swordtooth"/>
-        <card number="1" name="Escape to the Wilds"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Lotus Cobra"/>
         <card number="1" name="Migration Path"/>
-        <card number="1" name="Undergrowth Champion"/>
         <card number="1" name="Azusa, Lost but Seeking"/>
-        <card number="1" name="Rubblehulk"/>
         <card number="1" name="Ulvenwald Hydra"/>
         <card number="1" name="Jiang Yanggu"/>
-        <card number="1" name="Molimo, Maro-Sorcerer"/>
         <card number="1" name="Strength of Cedars"/>
         <card number="1" name="Ashaya, Soul of the Wild"/>
-        <card number="1" name="Dokai, Weaver of Life"/>
-        <card number="1" name="Zendikar Incarnate"/>
         <card number="1" name="Ground Assault"/>
         <card number="1" name="Struggle // Survive"/>
         <card number="1" name="Courser of Kruphix"/>
@@ -72,19 +80,16 @@
         <card number="1" name="Scute Mob"/>
         <card number="1" name="Llanowar Scout"/>
         <card number="1" name="Nissa, Who Shakes the World"/>
-        <card number="1" name="Nissa's Renewal"/>
         <card number="1" name="Runic Armasaur"/>
         <card number="1" name="Elder Gargaroth"/>
         <card number="1" name="Kazandu Nectarpot"/>
         <card number="1" name="Krosan Grip"/>
-        <card number="1" name="Khalni Ambush"/>
         <card number="1" name="Sylvan Awakening"/>
         <card number="1" name="Horn of Greed"/>
         <card number="1" name="Ghirapur Orrery"/>
         <card number="1" name="The Great Henge"/>
         <card number="1" name="Panharmonicon"/>
         <card number="1" name="Rites of Flourishing"/>
-        <card number="1" name="Guardian Project"/>
         <card number="1" name="Field of Ruin"/>
         <card number="1" name="Bonders' Enclave"/>
         <card number="1" name="Terramorphic Expanse"/>
@@ -95,10 +100,54 @@
         <card number="1" name="Wooded Foothills"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="12" name="Forest"/>
-        <card number="12" name="Mountain"/>
+        <card number="8" name="Mountain"/>
         <card number="1" name="Tempt with Discovery"/>
         <card number="1" name="New Frontiers"/>
         <card number="1" name="Howling Mine"/>
         <card number="1" name="Temple Bell"/>
+        <card number="1" name="World Shaper"/>
+        <card number="1" name="Valakut Exploration"/>
+        <card number="1" name="Seer's Sundial"/>
+        <card number="1" name="Ram Through"/>
+        <card number="1" name="Soul Sear"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Vinelasher Kudzu"/>
+        <card number="1" name="Nissa, Vastwood Seer"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Yavimaya Elder"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Comet Storm"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Animist's Awakening"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Explorer's Scope"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Mage Slayer"/>
+        <card number="1" name="Embercleave"/>
+        <card number="1" name="Burgeoning"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Lifegift"/>
+        <card number="1" name="Font of Fertility"/>
+        <card number="1" name="Guildless Commons"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Mountain Valley"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Sakura-Tribe Scout"/>
+        <card number="1" name="Geode Rager"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Nesting Dragon"/>
+        <card number="1" name="Akoum Firebird"/>
+        <card number="1" name="Warped Landscape"/>
+        <card number="1" name="Embodiment of Insight"/>
+        <card number="1" name="Tireless Tracker"/>
+        <card number="1" name="Skola Grovedancer"/>
     </zone>
 </cockatrice_deck>
