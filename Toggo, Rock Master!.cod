@@ -32,12 +32,31 @@
         <card number="1" name="Nahiri's Lithoforming"/>
         <card number="1" name="Sasaya's Essence"/>
         <card number="1" name="Budoka Gardener"/>
-        <card number="1" name="Molimo, Maro-Sorcerer"/>
         <card number="1" name="Rubblehulk"/>
         <card number="1" name="Khalni Ambush"/>
         <card number="2" name="Forest"/>
         <card number="1" name="Nissa's Renewal"/>
         <card number="1" name="Farseek"/>
+        <card number="1" name="Mage Slayer"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Embodiment of Insight"/>
+        <card number="1" name="World Shaper"/>
+        <card number="1" name="Sakura-Tribe Scout"/>
+        <card number="1" name="Radha, Heir to Keld"/>
+        <card number="1" name="Llanowar Scout"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Strength of Cedars"/>
+        <card number="1" name="Sylvan Awakening"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Mina and Denn, Wildborn"/>
+        <card number="1" name="Akoum Firebird"/>
+        <card number="1" name="Nissa, Vastwood Seer"/>
+        <card number="1" name="Nesting Dragon"/>
+        <card number="1" name="Scale the Heights"/>
+        <card number="1" name="Skola Grovedancer"/>
+        <card number="1" name="Scute Mob"/>
+        <card number="1" name="Ramunap Excavator"/>
     </zone>
     <zone name="main">
         <card number="1" name="Valakut Awakening"/>
@@ -46,11 +65,9 @@
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Phylath, World Sculptor"/>
-        <card number="1" name="Radha, Heir to Keld"/>
         <card number="1" name="Radha, Heart of Keld"/>
         <card number="1" name="Scute Swarm"/>
         <card number="1" name="Roiling Regrowth"/>
-        <card number="1" name="Ramunap Excavator"/>
         <card number="1" name="Crucible of Worlds"/>
         <card number="1" name="Ancient Greenwarden"/>
         <card number="1" name="Harrow"/>
@@ -58,12 +75,9 @@
         <card number="1" name="Moraug, Fury of Akoum"/>
         <card number="1" name="Jaddi Offshoot"/>
         <card number="1" name="Exploration"/>
-        <card number="1" name="Mina and Denn, Wildborn"/>
-        <card number="1" name="Scale the Heights"/>
         <card number="1" name="Explore"/>
         <card number="1" name="Oracle of Mul Daya"/>
         <card number="1" name="Enter the Unknown"/>
-        <card number="1" name="Dryad of the Ilysian Grove"/>
         <card number="1" name="Wayward Swordtooth"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Lotus Cobra"/>
@@ -71,24 +85,19 @@
         <card number="1" name="Azusa, Lost but Seeking"/>
         <card number="1" name="Ulvenwald Hydra"/>
         <card number="1" name="Jiang Yanggu"/>
-        <card number="1" name="Strength of Cedars"/>
         <card number="1" name="Ashaya, Soul of the Wild"/>
         <card number="1" name="Ground Assault"/>
         <card number="1" name="Struggle // Survive"/>
         <card number="1" name="Courser of Kruphix"/>
         <card number="1" name="Multani, Yavimaya's Avatar"/>
-        <card number="1" name="Scute Mob"/>
-        <card number="1" name="Llanowar Scout"/>
         <card number="1" name="Nissa, Who Shakes the World"/>
         <card number="1" name="Runic Armasaur"/>
         <card number="1" name="Elder Gargaroth"/>
         <card number="1" name="Kazandu Nectarpot"/>
         <card number="1" name="Krosan Grip"/>
-        <card number="1" name="Sylvan Awakening"/>
         <card number="1" name="Horn of Greed"/>
         <card number="1" name="Ghirapur Orrery"/>
         <card number="1" name="The Great Henge"/>
-        <card number="1" name="Panharmonicon"/>
         <card number="1" name="Rites of Flourishing"/>
         <card number="1" name="Field of Ruin"/>
         <card number="1" name="Bonders' Enclave"/>
@@ -105,16 +114,12 @@
         <card number="1" name="New Frontiers"/>
         <card number="1" name="Howling Mine"/>
         <card number="1" name="Temple Bell"/>
-        <card number="1" name="World Shaper"/>
         <card number="1" name="Valakut Exploration"/>
         <card number="1" name="Seer's Sundial"/>
         <card number="1" name="Ram Through"/>
         <card number="1" name="Soul Sear"/>
         <card number="1" name="Vandalblast"/>
-        <card number="1" name="Wood Elves"/>
         <card number="1" name="Vinelasher Kudzu"/>
-        <card number="1" name="Nissa, Vastwood Seer"/>
-        <card number="1" name="Eternal Witness"/>
         <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Yavimaya Elder"/>
         <card number="1" name="Beast Within"/>
@@ -128,9 +133,7 @@
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Faithless Looting"/>
         <card number="1" name="Sword of the Animist"/>
-        <card number="1" name="Explorer's Scope"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Mage Slayer"/>
         <card number="1" name="Embercleave"/>
         <card number="1" name="Burgeoning"/>
         <card number="1" name="Seedborn Muse"/>
@@ -140,14 +143,10 @@
         <card number="1" name="Gruul Turf"/>
         <card number="1" name="Mountain Valley"/>
         <card number="1" name="Sakura-Tribe Elder"/>
-        <card number="1" name="Sakura-Tribe Scout"/>
         <card number="1" name="Geode Rager"/>
         <card number="1" name="Rampaging Baloths"/>
-        <card number="1" name="Nesting Dragon"/>
-        <card number="1" name="Akoum Firebird"/>
         <card number="1" name="Warped Landscape"/>
-        <card number="1" name="Embodiment of Insight"/>
         <card number="1" name="Tireless Tracker"/>
-        <card number="1" name="Skola Grovedancer"/>
+        <card number="1" name="Molimo, Maro-Sorcerer"/>
     </zone>
 </cockatrice_deck>
