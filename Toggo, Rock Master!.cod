@@ -17,7 +17,7 @@
         <card number="1" name="Zendikar's Roil"/>
         <card number="1" name="Nissa, Genesis Mage"/>
         <card number="1" name="Boundless Realms"/>
-        <card number="1" name="Burgeoning"/>
+        <card number="2" name="Burgeoning"/>
         <card number="1" name="Megatog"/>
         <card number="1" name="Nissa, Voice of Zendikar"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
@@ -57,6 +57,13 @@
         <card number="1" name="Skola Grovedancer"/>
         <card number="1" name="Scute Mob"/>
         <card number="1" name="Ramunap Excavator"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Radha, Heart of Keld"/>
+        <card number="1" name="Wayward Swordtooth"/>
+        <card number="1" name="Yavimaya Elder"/>
+        <card number="1" name="Seer's Sundial"/>
+        <card number="1" name="Valakut Exploration"/>
+        <card number="1" name="Embercleave"/>
     </zone>
     <zone name="main">
         <card number="1" name="Valakut Awakening"/>
@@ -65,7 +72,6 @@
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Phylath, World Sculptor"/>
-        <card number="1" name="Radha, Heart of Keld"/>
         <card number="1" name="Scute Swarm"/>
         <card number="1" name="Roiling Regrowth"/>
         <card number="1" name="Crucible of Worlds"/>
@@ -76,9 +82,7 @@
         <card number="1" name="Jaddi Offshoot"/>
         <card number="1" name="Exploration"/>
         <card number="1" name="Explore"/>
-        <card number="1" name="Oracle of Mul Daya"/>
         <card number="1" name="Enter the Unknown"/>
-        <card number="1" name="Wayward Swordtooth"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Lotus Cobra"/>
         <card number="1" name="Migration Path"/>
@@ -114,14 +118,11 @@
         <card number="1" name="New Frontiers"/>
         <card number="1" name="Howling Mine"/>
         <card number="1" name="Temple Bell"/>
-        <card number="1" name="Valakut Exploration"/>
-        <card number="1" name="Seer's Sundial"/>
         <card number="1" name="Ram Through"/>
         <card number="1" name="Soul Sear"/>
         <card number="1" name="Vandalblast"/>
         <card number="1" name="Vinelasher Kudzu"/>
         <card number="1" name="Reclamation Sage"/>
-        <card number="1" name="Yavimaya Elder"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Return to Nature"/>
         <card number="1" name="Comet Storm"/>
@@ -134,8 +135,6 @@
         <card number="1" name="Faithless Looting"/>
         <card number="1" name="Sword of the Animist"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Embercleave"/>
-        <card number="1" name="Burgeoning"/>
         <card number="1" name="Seedborn Muse"/>
         <card number="1" name="Lifegift"/>
         <card number="1" name="Font of Fertility"/>
