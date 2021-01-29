@@ -36,11 +36,20 @@
         <card number="1" name="Beast Whisperer"/>
         <card number="1" name="Krosan Grip"/>
         <card number="1" name="Hapatra, Vizier of Poisons"/>
+        <card number="1" name="Vraska the Unseen"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Evolution Sage"/>
+        <card number="1" name="Tezzeret's Gambit"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Steady Progress"/>
+        <card number="1" name="Contentious Plan"/>
+        <card number="1" name="Artful Dodge"/>
+        <card number="1" name="Abduction"/>
+        <card number="1" name="Control Magic"/>
     </zone>
     <zone name="main">
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Farseek"/>
@@ -50,8 +59,6 @@
         <card number="1" name="Crop Rotation"/>
         <card number="1" name="Sultai Charm"/>
         <card number="1" name="Assassin's Trophy"/>
-        <card number="1" name="Contentious Plan"/>
-        <card number="1" name="Tezzeret's Gambit"/>
         <card number="1" name="Secrets of the Dead"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Rhystic Study"/>
@@ -89,7 +96,6 @@
         <card number="1" name="Triumph of the Hordes"/>
         <card number="1" name="Putrefax"/>
         <card number="1" name="Inexorable Tide"/>
-        <card number="1" name="Evolution Sage"/>
         <card number="1" name="Corrupted Conscience"/>
         <card number="1" name="Phyrexian Swarmlord"/>
         <card number="1" name="Reaper of Sheoldred"/>
@@ -106,7 +112,6 @@
         <card number="1" name="Melira, Sylvok Outcast"/>
         <card number="1" name="Spread the Sickness"/>
         <card number="1" name="Caress of Phyrexia"/>
-        <card number="1" name="Artful Dodge"/>
         <card number="1" name="Aqueous Form"/>
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Lightning Greaves"/>
@@ -117,18 +122,17 @@
         <card number="1" name="Vorinclex, Monstrous Raider"/>
         <card number="1" name="Vorinclex, Voice of Hunger"/>
         <card number="1" name="Ichor Rats"/>
-        <card number="1" name="Steady Progress"/>
-        <card number="1" name="Vines of Vastwood"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Asceticism"/>
         <card number="1" name="Oko, Thief of Crowns"/>
         <card number="1" name="Oko, the Trickster"/>
-        <card number="1" name="Vraska the Unseen"/>
         <card number="1" name="Grafted Exoskeleton"/>
-        <card number="1" name="Control Magic"/>
         <card number="1" name="Treachery"/>
-        <card number="1" name="Abduction"/>
         <card number="1" name="Soul Ransom"/>
         <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Biomass Mutation"/>
+        <card number="1" name="Sudden Spoiling"/>
+        <card number="1" name="The Great Henge"/>
+        <card number="1" name="Ohran Frostfang"/>
     </zone>
 </cockatrice_deck>
