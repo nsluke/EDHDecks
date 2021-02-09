@@ -43,9 +43,9 @@
         <card number="1" name="Cultivate"/>
         <card number="1" name="Steady Progress"/>
         <card number="1" name="Contentious Plan"/>
-        <card number="1" name="Artful Dodge"/>
         <card number="1" name="Abduction"/>
         <card number="1" name="Control Magic"/>
+        <card number="1" name="Melira, Sylvok Outcast"/>
     </zone>
     <zone name="main">
         <card number="1" name="Sol Ring"/>
@@ -109,7 +109,6 @@
         <card number="1" name="Skithiryx, the Blight Dragon"/>
         <card number="1" name="The Gitrog Monster"/>
         <card number="1" name="Necroskitter"/>
-        <card number="1" name="Melira, Sylvok Outcast"/>
         <card number="1" name="Spread the Sickness"/>
         <card number="1" name="Caress of Phyrexia"/>
         <card number="1" name="Aqueous Form"/>
@@ -134,5 +133,6 @@
         <card number="1" name="Sudden Spoiling"/>
         <card number="1" name="The Great Henge"/>
         <card number="1" name="Ohran Frostfang"/>
+        <card number="1" name="Artful Dodge"/>
     </zone>
 </cockatrice_deck>
