@@ -14,7 +14,6 @@
         <card number="1" name="Ashen Rider"/>
         <card number="1" name="Archon of Justice"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Crested Sunmare"/>
         <card number="1" name="Bloodthirsty Aerialist"/>
         <card number="1" name="Diabolic Tutor"/>
         <card number="1" name="Kaya's Wrath"/>
@@ -22,6 +21,7 @@
         <card number="1" name="Soul Warden"/>
         <card number="1" name="Darksteel Mutation"/>
         <card number="1" name="Path to Exile"/>
+        <card number="1" name="Exquisite Blood"/>
     </zone>
     <zone name="main">
         <card number="1" name="Land Tax"/>
@@ -91,7 +91,6 @@
         <card number="1" name="Erebos, God of the Dead"/>
         <card number="1" name="Vampire Nighthawk"/>
         <card number="1" name="Death Grasp"/>
-        <card number="1" name="Exquisite Blood"/>
         <card number="1" name="Revenge of Ravens"/>
         <card number="1" name="Light of Promise"/>
         <card number="1" name="Righteous Cause"/>
@@ -109,5 +108,6 @@
         <card number="1" name="Crypt Ghast"/>
         <card number="1" name="Wall of Reverence"/>
         <card number="1" name="Angel of Destiny"/>
+        <card number="1" name="Crested Sunmare"/>
     </zone>
 </cockatrice_deck>
