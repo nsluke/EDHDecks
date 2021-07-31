@@ -6,20 +6,15 @@
         <card number="1" name="Cragcrown Pathway"/>
         <card number="1" name="Riverglide Pathway"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="Brainstorm"/>
         <card number="1" name="Evacuation"/>
         <card number="1" name="Rapid Hybridization"/>
-        <card number="1" name="Harrow"/>
         <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Ponder"/>
         <card number="1" name="Ketria Crystal"/>
         <card number="1" name="Ketria Triome"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Sulfur Falls"/>
-        <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Command Tower"/>
         <card number="6" name="Forest"/>
         <card number="6" name="Island"/>
@@ -36,18 +31,14 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Jace Beleren"/>
-        <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Izzet Signet"/>
         <card number="1" name="Simic Signet"/>
         <card number="1" name="Gruul Signet"/>
-        <card number="1" name="Wonder"/>
         <card number="1" name="Anger"/>
         <card number="1" name="Jace's Archivist"/>
         <card number="1" name="Windfall"/>
-        <card number="1" name="Magus of the Wheel"/>
-        <card number="1" name="Reforge the Soul"/>
         <card number="1" name="Fevered Visions"/>
         <card number="1" name="Teferi's Puzzle Box"/>
         <card number="1" name="Howling Mine"/>
@@ -59,35 +50,44 @@
         <card number="1" name="Dragon Mage"/>
         <card number="1" name="Horizon Chimera"/>
         <card number="1" name="Burning Inquiry"/>
-        <card number="1" name="Fascination"/>
         <card number="1" name="Font of Mythos"/>
         <card number="1" name="Forced Fruition"/>
-        <card number="1" name="Well of Ideas"/>
-        <card number="1" name="Leyline of Anticipation"/>
         <card number="1" name="Geier Reach Sanitarium"/>
         <card number="1" name="Mikokoro, Center of the Sea"/>
         <card number="1" name="Seshiro the Anointed"/>
         <card number="1" name="Heartwood Storyteller"/>
-        <card number="1" name="Consecrated Sphinx"/>
         <card number="1" name="Ohran Frostfang"/>
-        <card number="1" name="Kashi-Tribe Elite"/>
         <card number="1" name="Hexdrinker"/>
-        <card number="1" name="Shisato, Whispering Hunter"/>
         <card number="1" name="Whirlpool Warrior"/>
         <card number="1" name="Doubling Season"/>
         <card number="1" name="Folio of Fancies"/>
-        <card number="1" name="Ghirapur Orrery"/>
         <card number="1" name="Seedborn Muse"/>
         <card number="1" name="Primal Vigor"/>
         <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Viseling"/>
         <card number="1" name="Parallel Lives"/>
         <card number="1" name="Shared Animosity"/>
-        <card number="1" name="Wheel and Deal"/>
         <card number="1" name="Horn of Greed"/>
         <card number="1" name="Dictate of Kruphix"/>
-        <card number="1" name="Body of Knowledge"/>
-        <card number="1" name="Iron Maiden"/>
+        <card number="1" name="Flusterstorm"/>
+        <card number="1" name="Carpet of Flowers"/>
+        <card number="1" name="Concordant Crossroads"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Dockside Extortionist"/>
+        <card number="1" name="Cryptolith Rite"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Wheel of Fortune"/>
+        <card number="1" name="Winds of Change"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Well of Ideas"/>
+        <card number="1" name="Molten Psyche"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Minds Aglow"/>
+        <card number="1" name="Force of Negation"/>
+        <card number="1" name="Force of Will"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Autumn's Veil"/>
+        <card number="1" name="Ogre Battledriver"/>
+        <card number="1" name="Xenagos, the Reveler"/>
     </zone>
     <zone name="side">
         <card number="1" name="Xyris, the Writhing Storm"/>
@@ -97,31 +97,47 @@
         <card number="1" name="Temple Bell"/>
         <card number="1" name="Tamiyo, Collector of Tales"/>
         <card number="1" name="Jace, Arcane Strategist"/>
-        <card number="1" name="Tempt with Discovery"/>
         <card number="1" name="Jace's Projection"/>
         <card number="1" name="Psychosis Crawler"/>
         <card number="1" name="The Locust God"/>
-        <card number="1" name="Gaea's Anthem"/>
         <card number="1" name="Vorinclex, Monstrous Raider"/>
         <card number="1" name="Vedalken Orrery"/>
         <card number="1" name="Valakut Awakening"/>
-        <card number="1" name="Winds of Change"/>
-        <card number="1" name="Wheel of Fortune"/>
-        <card number="1" name="Wheel of Fate"/>
         <card number="1" name="Temur Charm"/>
         <card number="1" name="Thwart the Enemy"/>
         <card number="1" name="Fog"/>
         <card number="1" name="Ashnod's Altar"/>
         <card number="1" name="Phyrexian Altar"/>
-        <card number="1" name="Nin, the Pain Artist"/>
+        <card number="2" name="Nin, the Pain Artist"/>
         <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Eldrazi Monument"/>
         <card number="1" name="Maelstrom Wanderer"/>
         <card number="1" name="Brawn"/>
-        <card number="1" name="Cryptolith Rite"/>
         <card number="1" name="Laboratory Maniac"/>
         <card number="1" name="Jace, Wielder of Mysteries"/>
         <card number="1" name="Thassa's Oracle"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Iron Maiden"/>
+        <card number="1" name="Viseling"/>
+        <card number="1" name="Body of Knowledge"/>
+        <card number="1" name="Consecrated Sphinx"/>
+        <card number="1" name="Ghirapur Orrery"/>
+        <card number="1" name="Kashi-Tribe Elite"/>
+        <card number="1" name="Fascination"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Shisato, Whispering Hunter"/>
+        <card number="1" name="Wheel and Deal"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Wonder"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="1" name="Reforge the Soul"/>
+        <card number="1" name="Wheel of Fate"/>
     </zone>
 </cockatrice_deck>
