@@ -6,12 +6,15 @@
         <card number="1" name="Kinnan, Bonder Prodigy"/>
         <card number="1" name="Rishkar's Expertise"/>
         <card number="1" name="Flood of Tears"/>
-        <card number="1" name="Praetor's Counsel"/>
-        <card number="1" name="Time Reversal"/>
         <card number="1" name="Tempt with Reflections"/>
         <card number="1" name="Rite of Replication"/>
         <card number="1" name="Titanoth Rex"/>
         <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Stormtide Leviathan"/>
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Leafkin Druid"/>
+        <card number="1" name="Apex Altisaur"/>
     </zone>
     <zone name="main">
         <card number="1" name="Sol Ring"/>
@@ -40,13 +43,9 @@
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Consecrated Sphinx"/>
         <card number="1" name="Prophet of Distortion"/>
-        <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Elvish Archdruid"/>
-        <card number="1" name="Soul of the Harvest"/>
-        <card number="1" name="Leafkin Druid"/>
         <card number="1" name="Ulamog, the Ceaseless Hunger"/>
         <card number="1" name="Kruphix, God of Horizons"/>
-        <card number="1" name="Prophet of Kruphix"/>
         <card number="1" name="Selvala, Heart of the Wilds"/>
         <card number="1" name="Tishana, Voice of Thunder"/>
         <card number="1" name="Dictate of Karametra"/>
@@ -61,10 +60,7 @@
         <card number="1" name="Archetype of Endurance"/>
         <card number="1" name="Archetype of Imagination"/>
         <card number="1" name="Sphinx of the Second Sun"/>
-        <card number="1" name="Ghalta, Primal Hunger"/>
         <card number="1" name="Worldspine Wurm"/>
-        <card number="1" name="Apex Altisaur"/>
-        <card number="1" name="Stormtide Leviathan"/>
         <card number="1" name="Inkwell Leviathan"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Temple of Mystery"/>
@@ -93,5 +89,12 @@
         <card number="1" name="Mana Reflection"/>
         <card number="1" name="Heartbeat of Spring"/>
         <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="Praetor's Counsel"/>
+        <card number="1" name="Time Reversal"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
+        <card number="1" name="Dawnglade Regent"/>
+        <card number="1" name="The Tarrasque"/>
+        <card number="1" name="Old Gnawbone"/>
     </zone>
 </cockatrice_deck>

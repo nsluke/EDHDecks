@@ -34,13 +34,11 @@
         <card number="1" name="Ketria Crystal"/>
         <card number="1" name="Ketria Triome"/>
         <card number="1" name="Primal Empathy"/>
-        <card number="1" name="Song of Creation"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Sulfur Falls"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Bonders' Enclave"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Genesis Ultimatum"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Arcane Signet"/>
@@ -63,7 +61,6 @@
         <card number="1" name="Trumpeting Gnarr"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Rhystic Study"/>
-        <card number="1" name="Colossification"/>
         <card number="1" name="Tempt with Discovery"/>
         <card number="1" name="Embercleave"/>
         <card number="1" name="Dictate of Kruphix"/>
@@ -81,11 +78,14 @@
         <card number="1" name="Beast Within"/>
         <card number="1" name="Jace Beleren"/>
         <card number="1" name="Hammer of Nazahn"/>
-        <card number="1" name="Invisible Stalker"/>
         <card number="1" name="Witchstalker"/>
         <card number="1" name="Flitterstep Eidolon"/>
         <card number="1" name="Spearpoint Oread"/>
         <card number="1" name="Vivien, Champion of the Wilds"/>
+        <card number="1" name="Cold-Eyed Selkie"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Growth Spiral"/>
     </zone>
     <zone name="side">
         <card number="1" name="Illuna, Apex of Wishes"/>
@@ -114,7 +114,6 @@
         <card number="1" name="Pollywog Symbiote"/>
         <card number="1" name="Nyxbloom Ancient"/>
         <card number="1" name="Nylea, Keen-Eyed"/>
-        <card number="1" name="Cold-Eyed Selkie"/>
         <card number="1" name="Hydra Omnivore"/>
         <card number="1" name="Champion's Helm"/>
         <card number="1" name="Fiery Emancipation"/>
@@ -133,11 +132,13 @@
         <card number="1" name="Shield of Kaldra"/>
         <card number="1" name="Troll Ascetic"/>
         <card number="1" name="Sword of Feast and Famine"/>
-        <card number="1" name="Paradise Druid"/>
         <card number="1" name="Rancor"/>
         <card number="1" name="Bassara Tower Archer"/>
         <card number="1" name="Vivien, Monsters' Advocate"/>
-        <card number="1" name="Growth Spiral"/>
         <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Invisible Stalker"/>
+        <card number="1" name="Colossification"/>
+        <card number="1" name="Genesis Ultimatum"/>
+        <card number="1" name="Song of Creation"/>
     </zone>
 </cockatrice_deck>
