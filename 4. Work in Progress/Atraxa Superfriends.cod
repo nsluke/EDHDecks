@@ -37,8 +37,65 @@
         <card number="1" name="Teferi's Protection"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Utter End"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Tamiyo, Field Researcher"/>
+        <card number="1" name="Tamiyo, the Moon Sage"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="1" name="Flux Channeler"/>
+        <card number="1" name="Spark Double"/>
+        <card number="1" name="Forgotten Ancient"/>
+        <card number="1" name="Pir, Imaginative Rascal"/>
+        <card number="1" name="Fathom Mage"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Grateful Apparition"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Faeburrow Elder"/>
+        <card number="1" name="Toothy, Imaginary Friend"/>
+        <card number="1" name="Roalesk, Apex Hybrid"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Noble Hierarch"/>
+        <card number="1" name="Skithiryx, the Blight Dragon"/>
+        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Bloom Tender"/>
+        <card number="1" name="Oath of Teferi"/>
+        <card number="1" name="Ajani, the Greathearted"/>
+        <card number="1" name="Jace, the Mind Sculptor"/>
+        <card number="1" name="Nissa, Voice of Zendikar"/>
+        <card number="1" name="Ajani, Mentor of Heroes"/>
+        <card number="1" name="Karn's Bastion"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Yavimaya, Cradle of Growth"/>
+        <card number="1" name="Gavony Township"/>
+        <card number="1" name="Interplanar Beacon"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="5" name="Forest"/>
+        <card number="3" name="Plains (a)"/>
+        <card number="4" name="Island"/>
+        <card number="3" name="Swamp"/>
+        <card number="1" name="Rejuvenating Springs"/>
     </zone>
     <zone name="side">
         <card number="1" name="Atraxa, Praetors' Voice"/>
+        <card number="1" name="Crystalline Crawler"/>
+        <card number="2" name="Forest"/>
+        <card number="2" name="Island"/>
     </zone>
 </cockatrice_deck>
