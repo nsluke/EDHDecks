@@ -3,13 +3,8 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Brainstorm"/>
-        <card number="1" name="Opt"/>
-        <card number="1" name="Dictate of Kruphix"/>
-        <card number="1" name="Font of Mythos"/>
         <card number="1" name="Howling Mine"/>
         <card number="1" name="Demonic Tutor"/>
-        <card number="1" name="Steady Progress"/>
         <card number="1" name="Vampiric Tutor"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Nature's Lore"/>
@@ -17,7 +12,6 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Chromatic Lantern"/>
         <card number="1" name="Farseek"/>
-        <card number="1" name="Azorius Signet"/>
         <card number="1" name="Dimir Signet"/>
         <card number="1" name="Golgari Signet"/>
         <card number="1" name="Counterspell"/>
@@ -31,15 +25,12 @@
         <card number="1" name="Utter End"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Shalai, Voice of Plenty"/>
-        <card number="1" name="Flux Channeler"/>
-        <card number="1" name="Spark Double"/>
         <card number="1" name="Forgotten Ancient"/>
         <card number="1" name="Pir, Imaginative Rascal"/>
         <card number="1" name="Fathom Mage"/>
         <card number="1" name="Birds of Paradise"/>
         <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Faeburrow Elder"/>
-        <card number="1" name="Roalesk, Apex Hybrid"/>
         <card number="1" name="Esper Sentinel"/>
         <card number="1" name="Noble Hierarch"/>
         <card number="1" name="Skithiryx, the Blight Dragon"/>
@@ -95,29 +86,41 @@
         <card number="1" name="Hydra's Growth"/>
         <card number="1" name="Replicating Ring"/>
         <card number="1" name="The Ozolith"/>
-        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Midnight Clock"/>
+        <card number="1" name="Toothy, Imaginary Friend"/>
+        <card number="1" name="Jace, Mirror Mage"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Vigor"/>
     </zone>
     <zone name="side">
         <card number="1" name="Atraxa, Praetors' Voice"/>
         <card number="2" name="Forest"/>
         <card number="2" name="Island"/>
         <card number="1" name="Grateful Apparition"/>
-        <card number="1" name="Tamiyo, the Moon Sage"/>
         <card number="1" name="Fuel for the Cause"/>
         <card number="1" name="Ignite the Beacon"/>
         <card number="1" name="Garruk, Apex Predator"/>
         <card number="1" name="Flusterstorm"/>
         <card number="1" name="Oath of Teferi"/>
-        <card number="1" name="Tamiyo, Field Researcher"/>
-        <card number="1" name="Tezzeret, Artifice Master"/>
         <card number="1" name="Jace, the Mind Sculptor"/>
-        <card number="1" name="Tamiyo, Collector of Tales"/>
-        <card number="1" name="Toothy, Imaginary Friend"/>
         <card number="1" name="Cathars' Crusade"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Swan Song"/>
         <card number="1" name="Contentious Plan"/>
         <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Font of Mythos"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Spark Double"/>
+        <card number="1" name="Flux Channeler"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Steady Progress"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Dictate of Kruphix"/>
+        <card number="1" name="Roalesk, Apex Hybrid"/>
     </zone>
 </cockatrice_deck>
