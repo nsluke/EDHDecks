@@ -24,7 +24,6 @@
         <card number="1" name="Mortify"/>
         <card number="1" name="Utter End"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Shalai, Voice of Plenty"/>
         <card number="1" name="Forgotten Ancient"/>
         <card number="1" name="Pir, Imaginative Rascal"/>
         <card number="1" name="Fathom Mage"/>
@@ -91,9 +90,10 @@
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Midnight Clock"/>
         <card number="1" name="Toothy, Imaginary Friend"/>
-        <card number="1" name="Jace, Mirror Mage"/>
         <card number="1" name="Felidar Retreat"/>
         <card number="1" name="Vigor"/>
+        <card number="1" name="Light of Promise"/>
+        <card number="1" name="Ezuri, Claw of Progress"/>
     </zone>
     <zone name="side">
         <card number="1" name="Atraxa, Praetors' Voice"/>
@@ -122,5 +122,7 @@
         <card number="1" name="Azorius Signet"/>
         <card number="1" name="Dictate of Kruphix"/>
         <card number="1" name="Roalesk, Apex Hybrid"/>
+        <card number="1" name="Jace, Mirror Mage"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
     </zone>
 </cockatrice_deck>

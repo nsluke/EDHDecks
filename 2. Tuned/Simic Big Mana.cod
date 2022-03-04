@@ -15,6 +15,8 @@
         <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Leafkin Druid"/>
         <card number="1" name="Apex Altisaur"/>
+        <card number="1" name="Inkwell Leviathan"/>
+        <card number="1" name="Intruder Alarm"/>
     </zone>
     <zone name="main">
         <card number="1" name="Sol Ring"/>
@@ -61,7 +63,6 @@
         <card number="1" name="Archetype of Imagination"/>
         <card number="1" name="Sphinx of the Second Sun"/>
         <card number="1" name="Worldspine Wurm"/>
-        <card number="1" name="Inkwell Leviathan"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Temple of Mystery"/>
         <card number="1" name="Simic Growth Chamber"/>
@@ -96,5 +97,10 @@
         <card number="1" name="Dawnglade Regent"/>
         <card number="1" name="The Tarrasque"/>
         <card number="1" name="Old Gnawbone"/>
+        <card number="1" name="Artisan of Kozilek"/>
+        <card number="1" name="Prime Speaker Zegana"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Progenitor Mimic"/>
+        <card number="1" name="Kodama of the East Tree"/>
     </zone>
 </cockatrice_deck>

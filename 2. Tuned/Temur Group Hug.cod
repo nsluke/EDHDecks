@@ -47,7 +47,6 @@
         <card number="1" name="Rites of Flourishing"/>
         <card number="1" name="Kami of the Crescent Moon"/>
         <card number="1" name="Birds of Paradise"/>
-        <card number="1" name="Dragon Mage"/>
         <card number="1" name="Horizon Chimera"/>
         <card number="1" name="Burning Inquiry"/>
         <card number="1" name="Font of Mythos"/>
@@ -88,6 +87,7 @@
         <card number="1" name="Autumn's Veil"/>
         <card number="1" name="Ogre Battledriver"/>
         <card number="1" name="Xenagos, the Reveler"/>
+        <card number="1" name="Leyline of Anticipation"/>
     </zone>
     <zone name="side">
         <card number="1" name="Xyris, the Writhing Storm"/>
@@ -126,7 +126,6 @@
         <card number="1" name="Ghirapur Orrery"/>
         <card number="1" name="Kashi-Tribe Elite"/>
         <card number="1" name="Fascination"/>
-        <card number="1" name="Leyline of Anticipation"/>
         <card number="1" name="Shisato, Whispering Hunter"/>
         <card number="1" name="Wheel and Deal"/>
         <card number="1" name="Ponder"/>
@@ -139,5 +138,6 @@
         <card number="1" name="Magus of the Wheel"/>
         <card number="1" name="Reforge the Soul"/>
         <card number="1" name="Wheel of Fate"/>
+        <card number="1" name="Dragon Mage"/>
     </zone>
 </cockatrice_deck>

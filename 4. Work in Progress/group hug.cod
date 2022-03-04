@@ -5,25 +5,17 @@
     <zone name="main">
         <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
         <card number="1" name="Avenger of Zendikar"/>
-        <card number="1" name="Battlefield Forge"/>
-        <card number="1" name="Budoka Gardener"/>
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Cinder Glade"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Cragcrown Pathway"/>
-        <card number="1" name="Crash of Rhino Beetles"/>
         <card number="1" name="Cultivate"/>
-        <card number="1" name="Cultivator Colossus"/>
         <card number="1" name="Dragonmaster Outcast"/>
-        <card number="1" name="Escape to the Wilds"/>
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Explore"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Fire-Lit Thicket"/>
-        <card number="1" name="Flood Plain"/>
         <card number="6" name="Forest"/>
-        <card number="1" name="Frontier Bivouac"/>
         <card number="1" name="Grasslands"/>
         <card number="1" name="Growth Spiral"/>
         <card number="1" name="Hallowed Fountain"/>
@@ -31,20 +23,12 @@
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Irrigated Farmland"/>
         <card number="4" name="Island"/>
-        <card number="1" name="Khalni Heart Expedition"/>
         <card number="1" name="Krosan Verge"/>
         <card number="1" name="Kumena's Awakening"/>
-        <card number="1" name="Lair of the Hydra"/>
-        <card number="1" name="Mina and Denn, Wildborn"/>
-        <card number="1" name="Mind Unbound"/>
         <card number="1" name="Misty Rainforest"/>
-        <card number="1" name="Molimo, Maro-Sorcerer"/>
         <card number="1" name="Moraug, Fury of Akoum"/>
-        <card number="4" name="Mountain"/>
+        <card number="3" name="Mountain"/>
         <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Omnath, Locus of Creation"/>
-        <card number="1" name="Omnath, Locus of Rage"/>
-        <card number="1" name="Overgrown Farmland"/>
         <card number="3" name="Plains"/>
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Rampaging Baloths"/>
@@ -53,17 +37,11 @@
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Rites of Flourishing"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Rootbound Crag"/>
         <card number="1" name="Scalding Tarn"/>
         <card number="1" name="Tatyova, Benthic Druid"/>
-        <card number="1" name="Temple of Abandon"/>
-        <card number="1" name="Temple of Mystery"/>
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Uro, Titan of Nature's Wrath"/>
-        <card number="1" name="Verdant Catacombs"/>
-        <card number="1" name="Wilderness Reclamation"/>
         <card number="1" name="Wizard Class"/>
-        <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Crucible of Worlds"/>
         <card number="1" name="Lotus Cobra"/>
         <card number="1" name="Phylath, World Sculptor"/>
@@ -78,7 +56,6 @@
         <card number="1" name="Felidar Retreat"/>
         <card number="1" name="Augur of Autumn"/>
         <card number="1" name="Horn of Greed"/>
-        <card number="1" name="Multani, Yavimaya's Avatar"/>
         <card number="1" name="Brushfire Elemental"/>
         <card number="1" name="Collective Voyage"/>
         <card number="1" name="Wrenn and Seven"/>
@@ -86,14 +63,37 @@
         <card number="1" name="Autumn's Veil"/>
         <card number="1" name="Carpet of Flowers"/>
         <card number="1" name="Genesis Ultimatum"/>
-        <card number="1" name="Borborygmos Enraged"/>
         <card number="1" name="Howling Mine"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Ghirapur Orrery"/>
+        <card number="1" name="Mirage Mirror"/>
+        <card number="1" name="Roiling Regrowth"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Xyris, the Writhing Storm"/>
+        <card number="1" name="Edric, Spymaster of Trest"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Minds Aglow"/>
+        <card number="1" name="Folio of Fancies"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Eladamri's Call"/>
+        <card number="1" name="Concordant Crossroads"/>
         <card number="1" name="Sylvan Awakening"/>
+        <card number="1" name="Ruin Crab"/>
+        <card number="1" name="Forced Fruition"/>
+        <card number="1" name="Radha, Heart of Keld"/>
     </zone>
     <zone name="side">
         <card number="1" name="Kynaios and Tiro of Meletis"/>
         <card number="1" name="Rampaging Brontodon"/>
-        <card number="1" name="Radha, Heart of Keld"/>
         <card number="1" name="Arixmethes, Slumbering Isle"/>
         <card number="1" name="Slogurk, the Overslime"/>
         <card number="1" name="Colossal Majesty"/>
@@ -106,7 +106,7 @@
         <card number="1" name="Untamed Wilds"/>
         <card number="1" name="Urban Evolution"/>
         <card number="1" name="Gretchen Titchwillow"/>
-        <card number="1" name="Khalni Heart Expedition"/>
+        <card number="2" name="Khalni Heart Expedition"/>
         <card number="1" name="Ior Ruin Expedition"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
         <card number="1" name="Expedition Map"/>
@@ -121,5 +121,22 @@
         <card number="1" name="The Great Aurora"/>
         <card number="1" name="Wild Endeavor"/>
         <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Wayward Guide-Beast"/>
+        <card number="1" name="Mind Unbound"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Borborygmos Enraged"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Flood Plain"/>
+        <card number="1" name="Mina and Denn, Wildborn"/>
+        <card number="1" name="Cultivator Colossus"/>
+        <card number="1" name="Escape to the Wilds"/>
+        <card number="1" name="Omnath, Locus of Rage"/>
+        <card number="1" name="Budoka Gardener"/>
+        <card number="1" name="Molimo, Maro-Sorcerer"/>
+        <card number="1" name="Crash of Rhino Beetles"/>
+        <card number="1" name="Multani, Yavimaya's Avatar"/>
+        <card number="1" name="Thrasios, Triton Hero"/>
+        <card number="1" name="Omnath, Locus of Creation"/>
     </zone>
 </cockatrice_deck>
