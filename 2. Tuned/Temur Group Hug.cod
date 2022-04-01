@@ -55,7 +55,6 @@
         <card number="1" name="Mikokoro, Center of the Sea"/>
         <card number="1" name="Seshiro the Anointed"/>
         <card number="1" name="Heartwood Storyteller"/>
-        <card number="1" name="Ohran Frostfang"/>
         <card number="1" name="Hexdrinker"/>
         <card number="1" name="Whirlpool Warrior"/>
         <card number="1" name="Doubling Season"/>
@@ -77,7 +76,6 @@
         <card number="1" name="Wheel of Fortune"/>
         <card number="1" name="Winds of Change"/>
         <card number="1" name="Mana Crypt"/>
-        <card number="1" name="Well of Ideas"/>
         <card number="1" name="Molten Psyche"/>
         <card number="1" name="Purphoros, God of the Forge"/>
         <card number="1" name="Minds Aglow"/>
@@ -88,6 +86,8 @@
         <card number="1" name="Ogre Battledriver"/>
         <card number="1" name="Xenagos, the Reveler"/>
         <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Ponder"/>
     </zone>
     <zone name="side">
         <card number="1" name="Xyris, the Writhing Storm"/>
@@ -108,7 +108,7 @@
         <card number="1" name="Fog"/>
         <card number="1" name="Ashnod's Altar"/>
         <card number="1" name="Phyrexian Altar"/>
-        <card number="2" name="Nin, the Pain Artist"/>
+        <card number="1" name="Nin, the Pain Artist"/>
         <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Eldrazi Monument"/>
@@ -128,16 +128,16 @@
         <card number="1" name="Fascination"/>
         <card number="1" name="Shisato, Whispering Hunter"/>
         <card number="1" name="Wheel and Deal"/>
-        <card number="1" name="Ponder"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Sylvan Library"/>
         <card number="1" name="Harrow"/>
-        <card number="1" name="Cultivate"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Wonder"/>
         <card number="1" name="Magus of the Wheel"/>
         <card number="1" name="Reforge the Soul"/>
         <card number="1" name="Wheel of Fate"/>
         <card number="1" name="Dragon Mage"/>
+        <card number="1" name="Well of Ideas"/>
+        <card number="1" name="Ohran Frostfang"/>
     </zone>
 </cockatrice_deck>

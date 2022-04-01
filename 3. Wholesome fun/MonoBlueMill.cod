@@ -31,6 +31,8 @@
         <card number="1" name="Halimar Excavator"/>
         <card number="1" name="Patient Rebuilding"/>
         <card number="1" name="Arcanis the Omnipotent"/>
+        <card number="1" name="Tasha's Hideous Laughter"/>
+        <card number="1" name="Prosperity"/>
     </zone>
     <zone name="main">
         <card number="1" name="Court of Cunning"/>
@@ -82,7 +84,6 @@
         <card number="1" name="High Tide"/>
         <card number="1" name="Winds of Rebuke"/>
         <card number="1" name="Tome Scour"/>
-        <card number="1" name="Prosperity"/>
         <card number="1" name="Sapphire Medallion"/>
         <card number="1" name="Howling Mine"/>
         <card number="1" name="The Magic Mirror"/>
@@ -105,5 +106,11 @@
         <card number="1" name="Wall of Air"/>
         <card number="1" name="Wall of Frost"/>
         <card number="1" name="Wall of Stolen Identity"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Shadow Kin"/>
+        <card number="1" name="Lier, Disciple of the Drowned"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Minds Aglow"/>
+        <card number="1" name="Mana Crypt"/>
     </zone>
 </cockatrice_deck>
