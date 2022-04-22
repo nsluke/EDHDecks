@@ -16,14 +16,12 @@
         <card number="1" name="Farseek"/>
         <card number="1" name="Fire-Lit Thicket"/>
         <card number="6" name="Forest"/>
-        <card number="1" name="Grasslands"/>
         <card number="1" name="Growth Spiral"/>
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Harrow"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Irrigated Farmland"/>
         <card number="4" name="Island"/>
-        <card number="1" name="Krosan Verge"/>
         <card number="1" name="Kumena's Awakening"/>
         <card number="1" name="Misty Rainforest"/>
         <card number="1" name="Moraug, Fury of Akoum"/>
@@ -51,8 +49,6 @@
         <card number="1" name="Ashaya, Soul of the Wild"/>
         <card number="1" name="Ancient Greenwarden"/>
         <card number="1" name="Tireless Tracker"/>
-        <card number="1" name="Meloku the Clouded Mirror"/>
-        <card number="1" name="Temur Ascendancy"/>
         <card number="1" name="Felidar Retreat"/>
         <card number="1" name="Augur of Autumn"/>
         <card number="1" name="Horn of Greed"/>
@@ -90,6 +86,10 @@
         <card number="1" name="Ruin Crab"/>
         <card number="1" name="Forced Fruition"/>
         <card number="1" name="Radha, Heart of Keld"/>
+        <card number="1" name="Wedding Ring"/>
+        <card number="1" name="Pendant of Prosperity"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Oath of Lieges"/>
     </zone>
     <zone name="side">
         <card number="1" name="Kynaios and Tiro of Meletis"/>
@@ -138,5 +138,9 @@
         <card number="1" name="Multani, Yavimaya's Avatar"/>
         <card number="1" name="Thrasios, Triton Hero"/>
         <card number="1" name="Omnath, Locus of Creation"/>
+        <card number="1" name="Meloku the Clouded Mirror"/>
+        <card number="1" name="Grasslands"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Temur Ascendancy"/>
     </zone>
 </cockatrice_deck>

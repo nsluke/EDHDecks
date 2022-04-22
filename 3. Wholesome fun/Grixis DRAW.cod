@@ -16,7 +16,6 @@
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Black Sun's Zenith"/>
         <card number="1" name="Hour of Devastation"/>
-        <card number="1" name="Murder"/>
         <card number="1" name="Soul Sear"/>
         <card number="1" name="Chain of Vapor"/>
         <card number="1" name="Imprisoned in the Moon"/>
@@ -72,18 +71,19 @@
         <card number="1" name="Forced Fruition"/>
         <card number="1" name="Nightscape Familiar"/>
         <card number="1" name="Ob Nixilis, the Hate-Twisted"/>
-        <card number="1" name="Venser's Journal"/>
         <card number="1" name="No Mercy"/>
         <card number="1" name="Dissipation Field"/>
         <card number="1" name="Sire of Insanity"/>
         <card number="1" name="Horn of Greed"/>
         <card number="1" name="Bloodchief Ascension"/>
-        <card number="1" name="Iron Maiden"/>
         <card number="1" name="Exquisite Blood"/>
         <card number="1" name="Chasm Skulker"/>
         <card number="1" name="Consecrated Sphinx"/>
         <card number="1" name="Consuming Aberration"/>
         <card number="1" name="Ominous Seas"/>
+        <card number="1" name="Ensnaring Bridge"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Doom Blade"/>
     </zone>
     <zone name="side">
         <card number="1" name="Nekusar, the Mindrazer"/>
@@ -95,7 +95,6 @@
         <card number="1" name="Phyrexian Tyranny"/>
         <card number="1" name="Wheel of Torture"/>
         <card number="1" name="Jace, the Mind Sculptor"/>
-        <card number="1" name="Ensnaring Bridge"/>
         <card number="1" name="Torbran, Thane of Red Fell"/>
         <card number="1" name="By Force"/>
         <card number="1" name="Kess, Dissident Mage"/>
@@ -103,5 +102,8 @@
         <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Zurzoth, Chaos Rider"/>
         <card number="1" name="Viseling"/>
+        <card number="1" name="Iron Maiden"/>
+        <card number="1" name="Murder"/>
+        <card number="1" name="Venser's Journal"/>
     </zone>
 </cockatrice_deck>
