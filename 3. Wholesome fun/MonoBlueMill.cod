@@ -33,9 +33,14 @@
         <card number="1" name="Arcanis the Omnipotent"/>
         <card number="1" name="Tasha's Hideous Laughter"/>
         <card number="1" name="Prosperity"/>
+        <card number="1" name="Tome Scour"/>
+        <card number="1" name="Altar of Dementia"/>
+        <card number="1" name="Belltower Sphinx"/>
+        <card number="1" name="Court of Cunning"/>
+        <card number="1" name="Wall of Stolen Identity"/>
+        <card number="1" name="Shadow Kin"/>
     </zone>
     <zone name="main">
-        <card number="1" name="Court of Cunning"/>
         <card number="1" name="Maddening Cacophony"/>
         <card number="1" name="Ruin Crab"/>
         <card number="1" name="Sphinx's Tutelage"/>
@@ -83,7 +88,6 @@
         <card number="1" name="Reality Shift"/>
         <card number="1" name="High Tide"/>
         <card number="1" name="Winds of Rebuke"/>
-        <card number="1" name="Tome Scour"/>
         <card number="1" name="Sapphire Medallion"/>
         <card number="1" name="Howling Mine"/>
         <card number="1" name="The Magic Mirror"/>
@@ -99,18 +103,19 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Extraplanar Lens"/>
         <card number="28" name="Island"/>
-        <card number="1" name="Altar of Dementia"/>
-        <card number="1" name="Belltower Sphinx"/>
         <card number="1" name="Hover Barrier"/>
         <card number="1" name="Wall of Runes"/>
         <card number="1" name="Wall of Air"/>
         <card number="1" name="Wall of Frost"/>
-        <card number="1" name="Wall of Stolen Identity"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Shadow Kin"/>
         <card number="1" name="Lier, Disciple of the Drowned"/>
         <card number="1" name="Mystical Tutor"/>
         <card number="1" name="Minds Aglow"/>
         <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Tasha's Hideous Laughter"/>
+        <card number="1" name="Fractured Sanity"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Consecrated Sphinx"/>
     </zone>
 </cockatrice_deck>

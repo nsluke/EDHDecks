@@ -4,7 +4,6 @@
     <comments>Your deck sucks, you look like you need help throwing it out</comments>
     <zone name="main">
         <card number="1" name="Baleful Strix"/>
-        <card number="1" name="Belltower Sphinx"/>
         <card number="1" name="Consuming Aberration"/>
         <card number="1" name="Duskmantle Guildmage"/>
         <card number="1" name="Fathom Feeder"/>
@@ -13,16 +12,12 @@
         <card number="1" name="Manic Scribe"/>
         <card number="1" name="Merfolk Secretkeeper // Venture Deeper"/>
         <card number="1" name="Thieves' Guild Enforcer"/>
-        <card number="1" name="Undead Alchemist"/>
         <card number="1" name="Wall of Frost"/>
-        <card number="1" name="Wall of Lost Thoughts"/>
         <card number="1" name="Wight of Precinct Six"/>
         <card number="1" name="Nighthowler"/>
         <card number="1" name="Mirko Vosk, Mind Drinker"/>
-        <card number="1" name="Ensnaring Bridge"/>
         <card number="1" name="Mesmeric Orb"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Tormod's Crypt"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Darkslick Shores"/>
         <card number="1" name="Dimir Aqueduct"/>
@@ -37,36 +32,26 @@
         <card number="1" name="Dissipation Field"/>
         <card number="1" name="Fraying Sanity"/>
         <card number="1" name="Ichthyomorphosis"/>
-        <card number="1" name="So Tiny"/>
         <card number="1" name="Sphinx's Tutelage"/>
         <card number="7" name="Swamp"/>
         <card number="10" name="Island"/>
         <card number="1" name="Flood of Tears"/>
         <card number="1" name="Mind Grind"/>
         <card number="1" name="Peer into the Abyss"/>
-        <card number="1" name="Startled Awake"/>
         <card number="1" name="Traumatize"/>
         <card number="1" name="Whispering Madness"/>
         <card number="1" name="Archive Trap"/>
         <card number="1" name="Dark Ritual"/>
-        <card number="1" name="Didn't Say Please"/>
         <card number="1" name="Domineering Will"/>
-        <card number="1" name="Thought Scour"/>
-        <card number="1" name="Jace, Memory Adept"/>
         <card number="1" name="Drown in the Loch"/>
         <card number="1" name="Mana Crypt"/>
-        <card number="1" name="Crypt Incursion"/>
         <card number="1" name="Aetherize"/>
-        <card number="1" name="Ashiok, Dream Render"/>
         <card number="1" name="No Mercy"/>
-        <card number="1" name="Extract from Darkness"/>
         <card number="1" name="Cyclonic Rift"/>
         <card number="1" name="Evacuation"/>
         <card number="1" name="Court of Cunning"/>
-        <card number="1" name="Mindcrank"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Psychic Corrosion"/>
-        <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Dimir Signet"/>
@@ -87,6 +72,21 @@
         <card number="1" name="Dreamborn Muse"/>
         <card number="1" name="Hedron Crab"/>
         <card number="1" name="Lazav, Dimir Mastermind"/>
+        <card number="1" name="Wishclaw Talisman"/>
+        <card number="1" name="Teferi's Puzzle Box"/>
+        <card number="1" name="Jace Beleren"/>
+        <card number="1" name="Massacre Girl"/>
+        <card number="1" name="Teferi's Tutelage"/>
+        <card number="1" name="Jace's Erasure"/>
+        <card number="1" name="Mind Unbound"/>
+        <card number="1" name="Tempt with Immortality"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Tempt with Reflections"/>
+        <card number="1" name="Midnight Clock"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Dictate of Kruphix"/>
+        <card number="1" name="Howling Mine"/>
+        <card number="1" name="Forced Fruition"/>
     </zone>
     <zone name="side">
         <card number="1" name="Phenax, God of Deception"/>
@@ -96,10 +96,7 @@
         <card number="1" name="Volrath's Curse"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Jace's Mindseeker"/>
-        <card number="1" name="Aether Tunnel"/>
         <card number="1" name="Sweet Oblivion"/>
-        <card number="1" name="Aqueous Form"/>
-        <card number="1" name="Jace's Erasure"/>
         <card number="1" name="Ashnod's Coupon"/>
         <card number="1" name="Tree of Perdition"/>
         <card number="1" name="Stream of Thought"/>
@@ -122,12 +119,28 @@
         <card number="1" name="Dimir Guildgate"/>
         <card number="1" name="Nephalia Drownyard"/>
         <card number="1" name="Duskmantle, House of Shadow"/>
-        <card number="1" name="Teferi's Tutelage"/>
         <card number="1" name="Dimir Locket"/>
-        <card number="1" name="Mind Unbound"/>
         <card number="1" name="Patient Rebuilding"/>
-        <card number="1" name="Massacre Girl"/>
         <card number="1" name="Oona, Queen of the Fae"/>
         <card number="1" name="Thoughtseize"/>
+        <card number="1" name="Belltower Sphinx"/>
+        <card number="1" name="Ashiok, Dream Render"/>
+        <card number="1" name="Jace, Ingenious Mind-Mage"/>
+        <card number="1" name="Thought Scour"/>
+        <card number="1" name="Jace, Memory Adept"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Didn't Say Please"/>
+        <card number="1" name="Mindcrank"/>
+        <card number="1" name="Undead Alchemist"/>
+        <card number="1" name="Extract from Darkness"/>
+        <card number="1" name="Lazav, the Multifarious"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Aqueous Form"/>
+        <card number="1" name="Aether Tunnel"/>
+        <card number="1" name="Startled Awake"/>
+        <card number="1" name="Tormod's Crypt"/>
+        <card number="1" name="Wall of Lost Thoughts"/>
+        <card number="1" name="Black Market"/>
+        <card number="1" name="Ensnaring Bridge"/>
     </zone>
 </cockatrice_deck>

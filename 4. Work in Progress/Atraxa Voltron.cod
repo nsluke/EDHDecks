@@ -86,7 +86,6 @@
         <card number="1" name="Replicating Ring"/>
         <card number="1" name="The Ozolith"/>
         <card number="1" name="Windfall"/>
-        <card number="1" name="Mystic Remora"/>
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Midnight Clock"/>
         <card number="1" name="Toothy, Imaginary Friend"/>
@@ -94,6 +93,7 @@
         <card number="1" name="Vigor"/>
         <card number="1" name="Light of Promise"/>
         <card number="1" name="Ezuri, Claw of Progress"/>
+        <card number="1" name="Tempt with Glory"/>
     </zone>
     <zone name="side">
         <card number="1" name="Atraxa, Praetors' Voice"/>
@@ -124,5 +124,7 @@
         <card number="1" name="Roalesk, Apex Hybrid"/>
         <card number="1" name="Jace, Mirror Mage"/>
         <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Tempt with Reflections"/>
     </zone>
 </cockatrice_deck>

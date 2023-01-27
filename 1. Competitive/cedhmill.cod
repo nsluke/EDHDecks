@@ -12,9 +12,7 @@
         <card number="1" name="Beseech the Queen"/>
         <card number="1" name="Black Sun's Zenith"/>
         <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Cloud of Faeries"/>
         <card number="1" name="Codex Shredder"/>
-        <card number="1" name="Coldsteel Heart"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Consuming Aberration"/>
         <card number="1" name="Cyclonic Rift"/>
@@ -23,19 +21,15 @@
         <card number="1" name="Deadeye Navigator"/>
         <card number="1" name="Demonic Tutor"/>
         <card number="1" name="Diabolic Tutor"/>
-        <card number="1" name="Dimir Locket"/>
         <card number="1" name="Dimir Signet"/>
-        <card number="1" name="Dreadship Reef"/>
         <card number="1" name="Dream Twist"/>
         <card number="1" name="Drowned Catacomb"/>
-        <card number="1" name="Fetid Pools"/>
         <card number="1" name="Fleet Swallower"/>
         <card number="1" name="Fraying Sanity"/>
         <card number="1" name="Glimpse the Unthinkable"/>
         <card number="1" name="Grim Tutor"/>
         <card number="1" name="Grindstone"/>
         <card number="1" name="Grisly Spectacle"/>
-        <card number="1" name="Into the Story"/>
         <card number="1" name="Inventors' Fair"/>
         <card number="1" name="Ipnu Rivulet"/>
         <card number="1" name="Manic Scribe"/>
@@ -51,9 +45,6 @@
         <card number="1" name="Propaganda"/>
         <card number="1" name="Psychic Corrosion"/>
         <card number="1" name="Razaketh's Rite"/>
-        <card number="1" name="Rite of Replication"/>
-        <card number="1" name="River's Rebuke"/>
-        <card number="1" name="Rune-Scarred Demon"/>
         <card number="1" name="Scheming Symmetry"/>
         <card number="1" name="Scribe of the Mindful"/>
         <card number="9" name="Snow-Covered Island"/>
@@ -75,7 +66,6 @@
         <card number="1" name="Wishclaw Talisman"/>
         <card number="1" name="Cruel Tutor"/>
         <card number="1" name="Crypt Incursion"/>
-        <card number="1" name="Diabolic Revelation"/>
         <card number="1" name="Duskmantle Guildmage"/>
         <card number="1" name="Eater of the Dead"/>
         <card number="1" name="Ghoulcaller's Bell"/>
@@ -87,8 +77,39 @@
         <card number="1" name="Mindcrank"/>
         <card number="1" name="Nephalia Drownyard"/>
         <card number="1" name="Rhystic Tutor"/>
+        <card number="1" name="Bruvac the Grandiloquent"/>
+        <card number="1" name="Tempt with Reflections"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Isochron Scepter"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Ruin Crab"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Teferi, Master of Time"/>
+        <card number="1" name="Jace, Wielder of Mysteries"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Opt"/>
     </zone>
     <zone name="side">
         <card number="1" name="Phenax, God of Deception"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Rune-Scarred Demon"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Dimir Locket"/>
+        <card number="1" name="Coldsteel Heart"/>
+        <card number="1" name="Cloud of Faeries"/>
+        <card number="1" name="Dreadship Reef"/>
+        <card number="1" name="Fetid Pools"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="2" name="River's Rebuke"/>
+        <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Diabolic Revelation"/>
+        <card number="1" name="Into the Story"/>
     </zone>
 </cockatrice_deck>
