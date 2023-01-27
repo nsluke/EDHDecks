@@ -94,6 +94,7 @@
         <card number="1" name="Light of Promise"/>
         <card number="1" name="Ezuri, Claw of Progress"/>
         <card number="1" name="Tempt with Glory"/>
+        <card number="1" name="Swiftfoot Boots"/>
     </zone>
     <zone name="side">
         <card number="1" name="Atraxa, Praetors' Voice"/>
@@ -126,5 +127,6 @@
         <card number="1" name="Shalai, Voice of Plenty"/>
         <card number="1" name="Mystic Remora"/>
         <card number="1" name="Tempt with Reflections"/>
+        <card number="1" name="Evolution Sage"/>
     </zone>
 </cockatrice_deck>

@@ -90,6 +90,7 @@
         <card number="1" name="Pendant of Prosperity"/>
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Oath of Lieges"/>
+        <card number="1" name="Storm Cauldron"/>
     </zone>
     <zone name="side">
         <card number="1" name="Kynaios and Tiro of Meletis"/>
