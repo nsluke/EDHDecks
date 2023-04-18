@@ -39,6 +39,7 @@
         <card number="1" name="Court of Cunning"/>
         <card number="1" name="Wall of Stolen Identity"/>
         <card number="1" name="Shadow Kin"/>
+        <card number="1" name="Drowned Secrets"/>
     </zone>
     <zone name="main">
         <card number="1" name="Maddening Cacophony"/>
@@ -52,7 +53,6 @@
         <card number="1" name="Traumatize"/>
         <card number="1" name="Fleet Swallower"/>
         <card number="1" name="Psychic Corrosion"/>
-        <card number="1" name="Drowned Secrets"/>
         <card number="1" name="Fraying Sanity"/>
         <card number="1" name="Hedron Crab"/>
         <card number="1" name="Dreamborn Muse"/>
