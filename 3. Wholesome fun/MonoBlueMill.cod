@@ -40,10 +40,14 @@
         <card number="1" name="Wall of Stolen Identity"/>
         <card number="1" name="Shadow Kin"/>
         <card number="1" name="Drowned Secrets"/>
+        <card number="1" name="Lier, Disciple of the Drowned"/>
+        <card number="1" name="Fleet Swallower"/>
+        <card number="1" name="Ruin Crab"/>
+        <card number="1" name="Tome Scour"/>
+        <card number="1" name="Belltower Sphinx"/>
     </zone>
     <zone name="main">
         <card number="1" name="Maddening Cacophony"/>
-        <card number="1" name="Ruin Crab"/>
         <card number="1" name="Sphinx's Tutelage"/>
         <card number="1" name="Teferi's Tutelage"/>
         <card number="1" name="Jace's Erasure"/>
@@ -51,10 +55,8 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Memory Erosion"/>
         <card number="1" name="Traumatize"/>
-        <card number="1" name="Fleet Swallower"/>
         <card number="1" name="Psychic Corrosion"/>
         <card number="1" name="Fraying Sanity"/>
-        <card number="1" name="Hedron Crab"/>
         <card number="1" name="Dreamborn Muse"/>
         <card number="1" name="Jace, Memory Adept"/>
         <card number="1" name="Jace Beleren"/>
@@ -103,13 +105,13 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Extraplanar Lens"/>
         <card number="28" name="Island"/>
+        <card number="1" name="Altar of Dementia"/>
         <card number="1" name="Hover Barrier"/>
         <card number="1" name="Wall of Runes"/>
         <card number="1" name="Wall of Air"/>
         <card number="1" name="Wall of Frost"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Shadow Kin"/>
-        <card number="1" name="Lier, Disciple of the Drowned"/>
         <card number="1" name="Mystical Tutor"/>
         <card number="1" name="Minds Aglow"/>
         <card number="1" name="Mana Crypt"/>
@@ -117,5 +119,6 @@
         <card number="1" name="Fractured Sanity"/>
         <card number="1" name="Silent Arbiter"/>
         <card number="1" name="Consecrated Sphinx"/>
+        <card number="1" name="Hedron Crab"/>
     </zone>
 </cockatrice_deck>
