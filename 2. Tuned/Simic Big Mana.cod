@@ -5,7 +5,6 @@
     <zone name="side">
         <card number="1" name="Kinnan, Bonder Prodigy"/>
         <card number="1" name="Rishkar's Expertise"/>
-        <card number="1" name="Flood of Tears"/>
         <card number="1" name="Tempt with Reflections"/>
         <card number="1" name="Rite of Replication"/>
         <card number="1" name="Titanoth Rex"/>
@@ -17,6 +16,18 @@
         <card number="1" name="Apex Altisaur"/>
         <card number="1" name="Inkwell Leviathan"/>
         <card number="1" name="Intruder Alarm"/>
+        <card number="1" name="Trinisphere"/>
+        <card number="1" name="Time Reversal"/>
+        <card number="1" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Artisan of Kozilek"/>
+        <card number="1" name="Finale of Devastation"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Prophet of Distortion"/>
+        <card number="1" name="End-Raze Forerunners"/>
+        <card number="1" name="Vorinclex, Voice of Hunger"/>
+        <card number="1" name="Thrasios, Triton Hero"/>
+        <card number="1" name="Jin-Gitaxias, Core Augur"/>
     </zone>
     <zone name="main">
         <card number="1" name="Sol Ring"/>
@@ -32,7 +43,6 @@
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Chromatic Lantern"/>
-        <card number="1" name="Thran Dynamo"/>
         <card number="1" name="Midnight Clock"/>
         <card number="1" name="Replicating Ring"/>
         <card number="1" name="Nyxbloom Ancient"/>
@@ -44,21 +54,17 @@
         <card number="1" name="Quirion Elves"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Consecrated Sphinx"/>
-        <card number="1" name="Prophet of Distortion"/>
         <card number="1" name="Elvish Archdruid"/>
-        <card number="1" name="Ulamog, the Ceaseless Hunger"/>
         <card number="1" name="Kruphix, God of Horizons"/>
         <card number="1" name="Selvala, Heart of the Wilds"/>
         <card number="1" name="Tishana, Voice of Thunder"/>
         <card number="1" name="Dictate of Karametra"/>
         <card number="1" name="Dictate of Kruphix"/>
         <card number="1" name="Howling Mine"/>
-        <card number="1" name="Finale of Devastation"/>
         <card number="1" name="Sylvan Caryatid"/>
         <card number="1" name="Incubation Druid"/>
         <card number="1" name="Koma, Cosmos Serpent"/>
         <card number="1" name="Craterhoof Behemoth"/>
-        <card number="1" name="End-Raze Forerunners"/>
         <card number="1" name="Archetype of Endurance"/>
         <card number="1" name="Archetype of Imagination"/>
         <card number="1" name="Sphinx of the Second Sun"/>
@@ -84,23 +90,28 @@
         <card number="1" name="Preordain"/>
         <card number="1" name="Overwhelming Stampede"/>
         <card number="1" name="Multani, Maro-Sorcerer"/>
-        <card number="1" name="Vorinclex, Voice of Hunger"/>
-        <card number="1" name="Trinisphere"/>
         <card number="1" name="Vernal Bloom"/>
         <card number="1" name="Mana Reflection"/>
         <card number="1" name="Heartbeat of Spring"/>
         <card number="1" name="Zendikar Resurgent"/>
         <card number="1" name="Praetor's Counsel"/>
-        <card number="1" name="Time Reversal"/>
         <card number="1" name="Paradise Druid"/>
         <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
         <card number="1" name="Dawnglade Regent"/>
         <card number="1" name="The Tarrasque"/>
         <card number="1" name="Old Gnawbone"/>
-        <card number="1" name="Artisan of Kozilek"/>
         <card number="1" name="Prime Speaker Zegana"/>
-        <card number="1" name="Diluvian Primordial"/>
         <card number="1" name="Progenitor Mimic"/>
         <card number="1" name="Kodama of the East Tree"/>
+        <card number="1" name="Delighted Halfling"/>
+        <card number="1" name="Thrasios, Triton Hero"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Flood of Tears"/>
+        <card number="1" name="Circle of Dreams Druid"/>
+        <card number="1" name="Gwenna, Eyes of Gaea"/>
+        <card number="1" name="Endurance"/>
+        <card number="1" name="Wandering Archaic"/>
+        <card number="1" name="Seedborn Muse"/>
     </zone>
 </cockatrice_deck>
