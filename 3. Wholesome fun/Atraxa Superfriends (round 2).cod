@@ -19,15 +19,12 @@
         <card number="1" name="Enlightened Tutor"/>
         <card number="1" name="Vampiric Tutor"/>
         <card number="1" name="Sylvan Reclamation"/>
-        <card number="1" name="Primevals' Glorious Rebirth"/>
         <card number="1" name="Merciless Eviction"/>
         <card number="1" name="Tezzeret's Gambit"/>
         <card number="1" name="Supreme Verdict"/>
-        <card number="1" name="Eerie Ultimatum"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Farseek"/>
-        <card number="1" name="Urza's Ruinous Blast"/>
         <card number="1" name="Demonic Tutor"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
@@ -51,7 +48,6 @@
         <card number="1" name="Teferi, Temporal Archmage"/>
         <card number="1" name="Elspeth, Sun's Champion"/>
         <card number="1" name="Dovin Baan"/>
-        <card number="1" name="Jace, Unraveler of Secrets"/>
         <card number="1" name="Ajani Unyielding"/>
         <card number="1" name="Liliana Vess"/>
         <card number="1" name="Kiora, the Crashing Wave"/>
@@ -61,9 +57,7 @@
         <card number="1" name="Tamiyo, the Moon Sage"/>
         <card number="1" name="Ashiok, Nightmare Muse"/>
         <card number="1" name="Ob Nixilis Reignited"/>
-        <card number="1" name="Ashiok, Dream Render"/>
         <card number="1" name="Vraska, Relic Seeker"/>
-        <card number="1" name="Ajani Steadfast"/>
         <card number="1" name="Venser, the Sojourner"/>
         <card number="1" name="Tezzeret, Artifice Master"/>
         <card number="1" name="Command Tower"/>
@@ -98,8 +92,20 @@
         <card number="2" name="Swamp"/>
         <card number="2" name="Plains"/>
         <card number="2" name="Forest"/>
+        <card number="1" name="Court of Garenbrig"/>
+        <card number="1" name="Ajani, Sleeper Agent"/>
+        <card number="1" name="Jace, the Mind Sculptor"/>
+        <card number="1" name="Garruk, Cursed Huntsman"/>
+        <card number="1" name="Oko, Thief of Crowns"/>
+        <card number="1" name="Vraska, Golgari Queen"/>
     </zone>
     <zone name="side">
         <card number="1" name="Atraxa, Praetors' Voice"/>
+        <card number="1" name="Jace, Unraveler of Secrets"/>
+        <card number="1" name="Ajani Steadfast"/>
+        <card number="1" name="Ashiok, Dream Render"/>
+        <card number="1" name="Eerie Ultimatum"/>
+        <card number="1" name="Urza's Ruinous Blast"/>
+        <card number="1" name="Primevals' Glorious Rebirth"/>
     </zone>
 </cockatrice_deck>

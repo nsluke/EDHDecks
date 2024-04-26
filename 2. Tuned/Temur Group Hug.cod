@@ -53,7 +53,6 @@
         <card number="1" name="Forced Fruition"/>
         <card number="1" name="Geier Reach Sanitarium"/>
         <card number="1" name="Mikokoro, Center of the Sea"/>
-        <card number="1" name="Seshiro the Anointed"/>
         <card number="1" name="Heartwood Storyteller"/>
         <card number="1" name="Hexdrinker"/>
         <card number="1" name="Whirlpool Warrior"/>
@@ -88,6 +87,7 @@
         <card number="1" name="Leyline of Anticipation"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Ponder"/>
+        <card number="1" name="Roar of Resistance"/>
     </zone>
     <zone name="side">
         <card number="1" name="Xyris, the Writhing Storm"/>
@@ -139,5 +139,6 @@
         <card number="1" name="Dragon Mage"/>
         <card number="1" name="Well of Ideas"/>
         <card number="1" name="Ohran Frostfang"/>
+        <card number="1" name="Seshiro the Anointed"/>
     </zone>
 </cockatrice_deck>

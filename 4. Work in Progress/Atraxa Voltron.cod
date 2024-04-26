@@ -85,7 +85,6 @@
         <card number="1" name="Hydra's Growth"/>
         <card number="1" name="Replicating Ring"/>
         <card number="1" name="The Ozolith"/>
-        <card number="1" name="Windfall"/>
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Midnight Clock"/>
         <card number="1" name="Toothy, Imaginary Friend"/>
@@ -93,8 +92,8 @@
         <card number="1" name="Vigor"/>
         <card number="1" name="Light of Promise"/>
         <card number="1" name="Ezuri, Claw of Progress"/>
-        <card number="1" name="Tempt with Glory"/>
         <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Jace, the Mind Sculptor"/>
     </zone>
     <zone name="side">
         <card number="1" name="Atraxa, Praetors' Voice"/>
@@ -106,7 +105,6 @@
         <card number="1" name="Garruk, Apex Predator"/>
         <card number="1" name="Flusterstorm"/>
         <card number="1" name="Oath of Teferi"/>
-        <card number="1" name="Jace, the Mind Sculptor"/>
         <card number="1" name="Cathars' Crusade"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Arcane Denial"/>
@@ -128,5 +126,7 @@
         <card number="1" name="Mystic Remora"/>
         <card number="1" name="Tempt with Reflections"/>
         <card number="1" name="Evolution Sage"/>
+        <card number="1" name="Tempt with Glory"/>
+        <card number="1" name="Windfall"/>
     </zone>
 </cockatrice_deck>

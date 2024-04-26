@@ -22,7 +22,6 @@
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Irrigated Farmland"/>
         <card number="4" name="Island"/>
-        <card number="1" name="Kumena's Awakening"/>
         <card number="1" name="Misty Rainforest"/>
         <card number="1" name="Moraug, Fury of Akoum"/>
         <card number="3" name="Mountain"/>
@@ -39,7 +38,6 @@
         <card number="1" name="Tatyova, Benthic Druid"/>
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Uro, Titan of Nature's Wrath"/>
-        <card number="1" name="Wizard Class"/>
         <card number="1" name="Crucible of Worlds"/>
         <card number="1" name="Lotus Cobra"/>
         <card number="1" name="Phylath, World Sculptor"/>
@@ -58,7 +56,6 @@
         <card number="1" name="Tempt with Discovery"/>
         <card number="1" name="Autumn's Veil"/>
         <card number="1" name="Carpet of Flowers"/>
-        <card number="1" name="Genesis Ultimatum"/>
         <card number="1" name="Howling Mine"/>
         <card number="1" name="Flooded Strand"/>
         <card number="1" name="Arid Mesa"/>
@@ -84,18 +81,19 @@
         <card number="1" name="Concordant Crossroads"/>
         <card number="1" name="Sylvan Awakening"/>
         <card number="1" name="Ruin Crab"/>
-        <card number="1" name="Forced Fruition"/>
         <card number="1" name="Radha, Heart of Keld"/>
         <card number="1" name="Wedding Ring"/>
         <card number="1" name="Pendant of Prosperity"/>
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Oath of Lieges"/>
         <card number="1" name="Storm Cauldron"/>
+        <card number="1" name="Omnath, Locus of Creation"/>
+        <card number="1" name="Kynaios and Tiro of Meletis"/>
+        <card number="1" name="Arixmethes, Slumbering Isle"/>
+        <card number="1" name="Exploration"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Kynaios and Tiro of Meletis"/>
         <card number="1" name="Rampaging Brontodon"/>
-        <card number="1" name="Arixmethes, Slumbering Isle"/>
         <card number="1" name="Slogurk, the Overslime"/>
         <card number="1" name="Colossal Majesty"/>
         <card number="1" name="Elemental Bond"/>
@@ -107,7 +105,6 @@
         <card number="1" name="Untamed Wilds"/>
         <card number="1" name="Urban Evolution"/>
         <card number="1" name="Gretchen Titchwillow"/>
-        <card number="2" name="Khalni Heart Expedition"/>
         <card number="1" name="Ior Ruin Expedition"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
         <card number="1" name="Expedition Map"/>
@@ -138,10 +135,13 @@
         <card number="1" name="Crash of Rhino Beetles"/>
         <card number="1" name="Multani, Yavimaya's Avatar"/>
         <card number="1" name="Thrasios, Triton Hero"/>
-        <card number="1" name="Omnath, Locus of Creation"/>
         <card number="1" name="Meloku the Clouded Mirror"/>
         <card number="1" name="Grasslands"/>
         <card number="1" name="Krosan Verge"/>
         <card number="1" name="Temur Ascendancy"/>
+        <card number="1" name="Genesis Ultimatum"/>
+        <card number="1" name="Wizard Class"/>
+        <card number="1" name="Kumena's Awakening"/>
+        <card number="1" name="Forced Fruition"/>
     </zone>
 </cockatrice_deck>

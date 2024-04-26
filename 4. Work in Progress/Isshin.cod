@@ -67,24 +67,22 @@
         <card number="1" name="Isshin, Two Heavens as One"/>
         <card number="1" name="Raiyuu, Storm's Edge"/>
         <card number="1" name="Queen Marchesa"/>
-    </zone>
-    <zone name="side">
-        <card number="1" name="Wind-Scarred Crag"/>
-        <card number="1" name="Spear of Heliod"/>
-        <card number="1" name="Mortify"/>
-        <card number="1" name="Ruinous Path"/>
-        <card number="1" name="No Mercy"/>
-        <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Solemnity"/>
-        <card number="1" name="Scoured Barrens"/>
-        <card number="1" name="Rakdos Guildgate"/>
-        <card number="1" name="Bloodfell Caves"/>
-        <card number="1" name="Boros Guildgate"/>
-        <card number="1" name="Orzhov Guildgate"/>
         <card number="1" name="Magus of the Wheel"/>
-        <card number="1" name="Merciless Eviction"/>
-        <card number="1" name="Banishing Light"/>
-        <card number="1" name="Behind the Scenes"/>
         <card number="1" name="Silvar, Devourer of the Free"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Ruinous Path"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Andúril, Flame of the West"/>
+        <card number="1" name="Sword of Light and Shadow"/>
+        <card number="1" name="Sword of Body and Mind"/>
+        <card number="1" name="Sword of Feast and Famine"/>
+        <card number="1" name="Sword of Forge and Frontier"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Hammer of Nazahn"/>
     </zone>
 </cockatrice_deck>

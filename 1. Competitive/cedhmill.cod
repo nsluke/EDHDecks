@@ -24,12 +24,10 @@
         <card number="1" name="Dimir Signet"/>
         <card number="1" name="Dream Twist"/>
         <card number="1" name="Drowned Catacomb"/>
-        <card number="1" name="Fleet Swallower"/>
         <card number="1" name="Fraying Sanity"/>
         <card number="1" name="Glimpse the Unthinkable"/>
         <card number="1" name="Grim Tutor"/>
         <card number="1" name="Grindstone"/>
-        <card number="1" name="Grisly Spectacle"/>
         <card number="1" name="Inventors' Fair"/>
         <card number="1" name="Ipnu Rivulet"/>
         <card number="1" name="Manic Scribe"/>
@@ -91,10 +89,11 @@
         <card number="1" name="Scalding Tarn"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Rhystic Study"/>
-        <card number="1" name="Teferi, Master of Time"/>
-        <card number="1" name="Jace, Wielder of Mysteries"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Opt"/>
+        <card number="1" name="The Ancient One"/>
+        <card number="1" name="Charix, the Raging Isle"/>
+        <card number="1" name="Cruel Somnophage // Can't Wake Up"/>
     </zone>
     <zone name="side">
         <card number="1" name="Phenax, God of Deception"/>
@@ -111,5 +110,9 @@
         <card number="1" name="Unexpected Windfall"/>
         <card number="1" name="Diabolic Revelation"/>
         <card number="1" name="Into the Story"/>
+        <card number="1" name="Grisly Spectacle"/>
+        <card number="1" name="Fleet Swallower"/>
+        <card number="1" name="Jace, Wielder of Mysteries"/>
+        <card number="1" name="Teferi, Master of Time"/>
     </zone>
 </cockatrice_deck>
