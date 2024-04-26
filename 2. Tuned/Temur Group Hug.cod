@@ -88,6 +88,7 @@
         <card number="1" name="Cultivate"/>
         <card number="1" name="Ponder"/>
         <card number="1" name="Roar of Resistance"/>
+        <card number="1" name="Seshiro the Anointed"/>
     </zone>
     <zone name="side">
         <card number="1" name="Xyris, the Writhing Storm"/>

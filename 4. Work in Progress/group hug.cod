@@ -75,7 +75,6 @@
         <card number="1" name="Edric, Spymaster of Trest"/>
         <card number="1" name="Smothering Tithe"/>
         <card number="1" name="Minds Aglow"/>
-        <card number="1" name="Folio of Fancies"/>
         <card number="1" name="Courser of Kruphix"/>
         <card number="1" name="Eladamri's Call"/>
         <card number="1" name="Concordant Crossroads"/>
@@ -91,6 +90,8 @@
         <card number="1" name="Kynaios and Tiro of Meletis"/>
         <card number="1" name="Arixmethes, Slumbering Isle"/>
         <card number="1" name="Exploration"/>
+        <card number="1" name="Geode Rager"/>
+        <card number="1" name="The Mending of Dominaria"/>
     </zone>
     <zone name="side">
         <card number="1" name="Rampaging Brontodon"/>
@@ -143,5 +144,7 @@
         <card number="1" name="Wizard Class"/>
         <card number="1" name="Kumena's Awakening"/>
         <card number="1" name="Forced Fruition"/>
+        <card number="1" name="Folio of Fancies"/>
+        <card number="1" name="Omnath, Locus of Creation"/>
     </zone>
 </cockatrice_deck>
