@@ -10,7 +10,6 @@
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Tajic, Blade of the Legion"/>
-        <card number="1" name="Odric, Lunarch Marshal"/>
         <card number="1" name="Frontline Medic"/>
         <card number="1" name="Boros Signet"/>
         <card number="1" name="Orzhov Signet"/>
@@ -51,7 +50,6 @@
         <card number="1" name="Skyknight Vanguard"/>
         <card number="1" name="Captain Lannery Storm"/>
         <card number="1" name="Krenko, Tin Street Kingpin"/>
-        <card number="1" name="Sun Titan"/>
         <card number="1" name="Mishra, Claimed by Gix"/>
         <card number="1" name="Phyrexian Dragon Engine"/>
         <card number="1" name="Skyhunter Strike Force"/>
@@ -66,7 +64,6 @@
         <card number="1" name="Gleam of Battle"/>
         <card number="1" name="Unquenchable Fury"/>
         <card number="1" name="Fable of the Mirror-Breaker"/>
-        <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Sword of the Animist"/>
         <card number="1" name="Blade of Selves"/>
@@ -82,7 +79,6 @@
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Hanweir Battlements"/>
         <card number="1" name="Haunted Ridge"/>
-        <card number="1" name="Inspiring Vantage"/>
         <card number="1" name="Isolated Chapel"/>
         <card number="1" name="Marsh Flats"/>
         <card number="1" name="Needleverge Pathway"/>
@@ -91,36 +87,19 @@
         <card number="1" name="Sundown Pass"/>
         <card number="1" name="Isshin, Two Heavens as One"/>
         <card number="1" name="Sardian Avenger"/>
-        <card number="1" name="Godo, Bandit Warlord"/>
         <card number="1" name="Andúril, Narsil Reforged"/>
         <card number="1" name="Firemane Commando"/>
+        <card number="1" name="Odric, Master Tactician"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Ilharg, the Raze-Boar"/>
+        <card number="1" name="Karlach, Fury of Avernus"/>
+        <card number="1" name="Odric, Lunarch Marshal"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Wind-Scarred Crag"/>
-        <card number="1" name="Mortify"/>
-        <card number="1" name="Ruinous Path"/>
-        <card number="1" name="Solemnity"/>
-        <card number="1" name="Scoured Barrens"/>
-        <card number="1" name="Rakdos Guildgate"/>
-        <card number="1" name="Bloodfell Caves"/>
-        <card number="1" name="Boros Guildgate"/>
-        <card number="1" name="Orzhov Guildgate"/>
-        <card number="1" name="Alesha, Who Smiles at Death"/>
-        <card number="1" name="Merciless Eviction"/>
-        <card number="1" name="Archetype of Courage"/>
-        <card number="1" name="Fumiko the Lowblood"/>
         <card number="1" name="Mishra, Lost to Phyrexia"/>
-        <card number="1" name="Reflection of Kiki-Jiki"/>
-        <card number="1" name="Rakdos Carnarium"/>
-        <card number="1" name="Mountain"/>
-        <card number="1" name="Orzhov Basilica"/>
-        <card number="1" name="Boros Garrison"/>
-        <card number="1" name="Crackling Doom"/>
-        <card number="1" name="Tragic Slip"/>
-        <card number="1" name="Odric, Master Tactician"/>
-        <card number="1" name="Legion Loyalty"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="Adriana, Captain of the Guard"/>
-        <card number="1" name="Sword of Hearth and Home"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Godo, Bandit Warlord"/>
     </zone>
 </cockatrice_deck>

@@ -86,6 +86,7 @@
         <card number="1" name="Mangara, the Diplomat"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
         <card number="1" name="Intangible Virtue"/>
+        <card number="1" name="Akroma's Memorial"/>
     </zone>
     <zone name="side">
         <card number="1" name="Akroma's Memorial"/>
