@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Xyris, the Writhing Storm"/>
+        <card number="1" name="Might of Oaks"/>
+        <card number="1" name="Giant Growth"/>
+        <card number="1" name="Bria, Riptide Rogue"/>
+        <card number="1" name="Titanic Growth"/>
+        <card number="1" name="Explosive Growth"/>
+        <card number="1" name="Colossal Growth"/>
+        <card number="1" name="Mammoth Growth"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Mystic Reflection"/>
+        <card number="1" name="Become Immense"/>
+        <card number="1" name="Groundswell"/>
+        <card number="1" name="Titan's Strength"/>
+        <card number="1" name="Brute Force"/>
+        <card number="1" name="Embercleave"/>
+        <card number="1" name="Blazing Crescendo"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Beamtown Beatstick"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="1" name="Eldrazi Monument"/>
+        <card number="1" name="Mithril Coat"/>
+        <card number="1" name="Stoneforge Masterwork"/>
+        <card number="1" name="Nerd Rage"/>
+        <card number="1" name="Rising of the Day"/>
+        <card number="1" name="Kessig Wolf Run"/>
+        <card number="1" name="Blossoming Defense"/>
+        <card number="1" name="Fully Grown"/>
+        <card number="1" name="Gaea's Gift"/>
+        <card number="1" name="Invigorate"/>
+        <card number="1" name="Mutagenic Growth"/>
+        <card number="1" name="Shore Up"/>
+        <card number="1" name="Simic Charm"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Snakeskin Veil"/>
+        <card number="1" name="Tamiyo's Safekeeping"/>
+        <card number="1" name="Temur Battle Rage"/>
+        <card number="1" name="Temur Charm"/>
+        <card number="1" name="Tyvar's Stand"/>
+        <card number="10" name="Forest"/>
+        <card number="10" name="Island"/>
+        <card number="10" name="Mountain"/>
+        <card number="1" name="Combat Research"/>
+        <card number="1" name="Cold-Eyed Selkie"/>
+        <card number="1" name="Djinn Illuminatus"/>
+        <card number="1" name="Geode Golem"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Mercurial Spelldancer"/>
+        <card number="1" name="Mischievous Catgeist"/>
+        <card number="1" name="Ohran Viper"/>
+        <card number="1" name="Snake Umbra"/>
+        <card number="1" name="Coiling Oracle"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Deeproot Wayfinder"/>
+        <card number="1" name="Eureka Moment"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Bite Down"/>
+        <card number="1" name="Cosmic Hunger"/>
+        <card number="1" name="Decisive Denial"/>
+        <card number="1" name="Inscription of Abundance"/>
+        <card number="1" name="Khalni Ambush"/>
+        <card number="1" name="Master's Rebuke"/>
+        <card number="1" name="Ram Through"/>
+        <card number="1" name="Roar of Challenge"/>
+        <card number="1" name="Soul's Fire"/>
+        <card number="1" name="Sunder Shaman"/>
+        <card number="1" name="Trygon Predator"/>
+        <card number="1" name="Thrash // Threat"/>
+        <card number="1" name="Harrow"/>
+    </zone>
+</cockatrice_deck>

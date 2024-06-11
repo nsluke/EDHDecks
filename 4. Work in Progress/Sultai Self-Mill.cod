@@ -28,13 +28,12 @@
         <card number="1" name="Verdant Catacombs"/>
         <card number="1" name="Hinterland Harbor"/>
         <card number="1" name="Drowned Catacomb"/>
-        <card number="6" name="Swamp"/>
-        <card number="8" name="Island"/>
+        <card number="5" name="Swamp"/>
+        <card number="6" name="Island"/>
         <card number="9" name="Forest"/>
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Oko, the Trickster"/>
         <card number="1" name="Ashnod's Altar"/>
         <card number="1" name="The Great Henge"/>
         <card number="1" name="Dimir Signet"/>
@@ -52,7 +51,6 @@
         <card number="1" name="The Gitrog Monster"/>
         <card number="1" name="Baleful Strix"/>
         <card number="1" name="Satyr Wayfinder"/>
-        <card number="1" name="Avatar of Woe"/>
         <card number="1" name="Muldrotha, the Gravetide"/>
         <card number="1" name="Frogify"/>
         <card number="1" name="Ichthyomorphosis"/>
@@ -73,7 +71,6 @@
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Seal of Removal"/>
         <card number="1" name="Exploration"/>
-        <card number="1" name="Dread Return"/>
         <card number="1" name="Breach the Multiverse"/>
         <card number="1" name="Sidisi, Brood Tyrant"/>
         <card number="1" name="Stitcher's Supplier"/>
@@ -83,9 +80,17 @@
         <card number="1" name="Jarad, Golgari Lich Lord"/>
         <card number="1" name="Urborg Lhurgoyf"/>
         <card number="1" name="Mithril Coat"/>
+        <card number="1" name="Lumra, Bellow of the Woods"/>
+        <card number="1" name="Six"/>
+        <card number="1" name="Tranquility"/>
+        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
+        <card number="1" name="Tatyova, Benthic Druid"/>
+        <card number="1" name="Oko, the Trickster"/>
     </zone>
     <zone name="side">
         <card number="1" name="Biomass Mutation"/>
         <card number="1" name="Sudden Spoiling"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Avatar of Woe"/>
     </zone>
 </cockatrice_deck>
