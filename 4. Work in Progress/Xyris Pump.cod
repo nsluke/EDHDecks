@@ -8,13 +8,10 @@
         <card number="1" name="Giant Growth"/>
         <card number="1" name="Bria, Riptide Rogue"/>
         <card number="1" name="Titanic Growth"/>
-        <card number="1" name="Explosive Growth"/>
-        <card number="1" name="Colossal Growth"/>
         <card number="1" name="Mammoth Growth"/>
         <card number="1" name="Vines of Vastwood"/>
         <card number="1" name="Mystic Reflection"/>
         <card number="1" name="Become Immense"/>
-        <card number="1" name="Groundswell"/>
         <card number="1" name="Titan's Strength"/>
         <card number="1" name="Brute Force"/>
         <card number="1" name="Embercleave"/>
@@ -29,13 +26,11 @@
         <card number="1" name="Nerd Rage"/>
         <card number="1" name="Rising of the Day"/>
         <card number="1" name="Kessig Wolf Run"/>
-        <card number="1" name="Blossoming Defense"/>
         <card number="1" name="Fully Grown"/>
         <card number="1" name="Gaea's Gift"/>
         <card number="1" name="Invigorate"/>
         <card number="1" name="Mutagenic Growth"/>
         <card number="1" name="Shore Up"/>
-        <card number="1" name="Simic Charm"/>
         <card number="1" name="Simic Signet"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Gruul Signet"/>
@@ -46,13 +41,12 @@
         <card number="1" name="Temur Battle Rage"/>
         <card number="1" name="Temur Charm"/>
         <card number="1" name="Tyvar's Stand"/>
-        <card number="10" name="Forest"/>
-        <card number="10" name="Island"/>
-        <card number="10" name="Mountain"/>
+        <card number="7" name="Forest"/>
+        <card number="6" name="Island"/>
+        <card number="6" name="Mountain"/>
         <card number="1" name="Combat Research"/>
         <card number="1" name="Cold-Eyed Selkie"/>
         <card number="1" name="Djinn Illuminatus"/>
-        <card number="1" name="Geode Golem"/>
         <card number="1" name="Hunter's Insight"/>
         <card number="1" name="Mercurial Spelldancer"/>
         <card number="1" name="Mischievous Catgeist"/>
@@ -64,7 +58,6 @@
         <card number="1" name="Eureka Moment"/>
         <card number="1" name="Growth Spiral"/>
         <card number="1" name="Bite Down"/>
-        <card number="1" name="Cosmic Hunger"/>
         <card number="1" name="Decisive Denial"/>
         <card number="1" name="Inscription of Abundance"/>
         <card number="1" name="Khalni Ambush"/>
@@ -76,5 +69,29 @@
         <card number="1" name="Trygon Predator"/>
         <card number="1" name="Thrash // Threat"/>
         <card number="1" name="Harrow"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Soul Sear"/>
+        <card number="1" name="Copperline Gorge"/>
+        <card number="1" name="Botanical Sanctum"/>
+        <card number="1" name="Spirebluff Canal"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Fire-Lit Thicket"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Spire Garden"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Geode Golem"/>
+        <card number="1" name="Blossoming Defense"/>
+        <card number="1" name="Colossal Growth"/>
+        <card number="1" name="Groundswell"/>
     </zone>
 </cockatrice_deck>

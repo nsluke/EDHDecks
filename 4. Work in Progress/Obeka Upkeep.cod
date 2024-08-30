@@ -43,9 +43,8 @@
         <card number="1" name="Embercleave"/>
         <card number="1" name="Fireshrieker"/>
         <card number="1" name="Ivory Tower"/>
-        <card number="12" name="Island"/>
-        <card number="12" name="Mountain"/>
-        <card number="12" name="Swamp"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Swamp"/>
         <card number="1" name="Nightscape Familiar"/>
         <card number="1" name="Quakebringer"/>
         <card number="1" name="Dominus of Fealty"/>
@@ -66,9 +65,34 @@
         <card number="1" name="Demonic Tutor"/>
         <card number="1" name="Gate to the Aether"/>
         <card number="1" name="Prowler's Helm"/>
-        <card number="1" name="Aether Vial"/>
         <card number="1" name="Sword of the Animist"/>
         <card number="1" name="Bitterthorn, Nissa's Animus"/>
         <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Dowsing Dagger"/>
+        <card number="1" name="Xander's Lounge"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Tainted Isle"/>
+        <card number="1" name="Tainted Peak"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Darkslick Shores"/>
     </zone>
 </cockatrice_deck>

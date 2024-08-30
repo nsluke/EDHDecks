@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abrupt Decay"/>
+        <card number="1" name="Animate Dead"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Autumn's Veil"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Chthonian Nightmare"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Culling Ritual"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Defense Grid"/>
+        <card number="1" name="Deflecting Swat"/>
+        <card number="1" name="Dockside Extortionist"/>
+        <card number="1" name="Dosan the Falling Leaf"/>
+        <card number="1" name="Entomb"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Food Chain"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Grinding Station"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Ignoble Hierarch"/>
+        <card number="1" name="Imperial Seal"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Mayhem Devil"/>
+        <card number="1" name="Noxious Revival"/>
+        <card number="1" name="Opposition Agent"/>
+        <card number="1" name="Orcish Bowmasters"/>
+        <card number="1" name="Orcish Lumberjack"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Phyrexian Altar"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Pyroblast"/>
+        <card number="1" name="Ragavan, Nimble Pilferer"/>
+        <card number="1" name="Rain of Filth"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Red Elemental Blast"/>
+        <card number="1" name="Ruthless Technomancer"/>
+        <card number="1" name="Skirk Prospector"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Squee, the Immortal"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="The One Ring"/>
+        <card number="1" name="Undergrowth Stadium"/>
+        <card number="1" name="Unearth"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Vexing Bauble"/>
+        <card number="1" name="Warren Soultrader"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Ziatora's Proving Ground"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Delighted Halfling"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Twisted Landscape"/>
+        <card number="1" name="Gluttonous Hellkite"/>
+        <card number="8" name="Forest"/>
+        <card number="6" name="Swamp"/>
+        <card number="6" name="Mountain"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Fire-Lit Thicket"/>
+        <card number="1" name="Academy Manufactor"/>
+        <card number="1" name="Ygra, Eater of All"/>
+        <card number="1" name="Chatterfang, Squirrel General"/>
+        <card number="1" name="Mirkwood Bats"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Korvold, Fae-Cursed King"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Old Gnawbone"/>
+        <card number="1" name="Xorn"/>
+        <card number="1" name="Deathrite Shaman"/>
+        <card number="1" name="Ramunap Excavator"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Decadent Dragon // Expensive Taste"/>
+        <card number="1" name="Ancient Copper Dragon"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Forest"/>
+        <card number="1" name="Culling the Weak"/>
+        <card number="1" name="Necropotence"/>
+        <card number="1" name="Underworld Breach"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Peer into the Abyss"/>
+        <card number="1" name="Eldritch Evolution"/>
+        <card number="1" name="Beseech the Mirror"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="1" name="Korvold, Gleeful Glutton"/>
+        <card number="1" name="Tinder Wall"/>
+        <card number="1" name="Viscera Seer"/>
+    </zone>
+</cockatrice_deck>
