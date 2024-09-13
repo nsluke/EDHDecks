@@ -21,7 +21,6 @@
         <card number="1" name="Dosan the Falling Leaf"/>
         <card number="1" name="Entomb"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Food Chain"/>
         <card number="1" name="Goblin Bombardment"/>
         <card number="1" name="Grinding Station"/>
         <card number="1" name="Heroic Intervention"/>
@@ -86,6 +85,7 @@
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Decadent Dragon // Expensive Taste"/>
         <card number="1" name="Ancient Copper Dragon"/>
+        <card number="1" name="Korvold, Gleeful Glutton"/>
     </zone>
     <zone name="side">
         <card number="1" name="Forest"/>
@@ -99,8 +99,8 @@
         <card number="1" name="Beseech the Mirror"/>
         <card number="1" name="Worldly Tutor"/>
         <card number="1" name="Vampiric Tutor"/>
-        <card number="1" name="Korvold, Gleeful Glutton"/>
         <card number="1" name="Tinder Wall"/>
         <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Food Chain"/>
     </zone>
 </cockatrice_deck>

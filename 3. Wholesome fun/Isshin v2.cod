@@ -61,7 +61,6 @@
         <card number="1" name="Fervent Charge"/>
         <card number="1" name="Chivalric Alliance"/>
         <card number="1" name="Curse of Opulence"/>
-        <card number="1" name="Gleam of Battle"/>
         <card number="1" name="Unquenchable Fury"/>
         <card number="1" name="Fable of the Mirror-Breaker"/>
         <card number="1" name="Fabled Passage"/>
@@ -95,6 +94,7 @@
         <card number="1" name="Ilharg, the Raze-Boar"/>
         <card number="1" name="Karlach, Fury of Avernus"/>
         <card number="1" name="Odric, Lunarch Marshal"/>
+        <card number="1" name="Gleam of Battle"/>
     </zone>
     <zone name="side">
         <card number="1" name="Mishra, Lost to Phyrexia"/>
