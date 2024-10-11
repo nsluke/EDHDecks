@@ -6,19 +6,16 @@
         <card number="1" name="Akroma's Will"/>
         <card number="1" name="Aura Shards"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Branchloft Pathway"/>
         <card number="1" name="Cathars' Crusade"/>
         <card number="1" name="Commander's Insignia"/>
         <card number="1" name="Divine Visitation"/>
         <card number="1" name="Doubling Season"/>
-        <card number="1" name="Elder Gargaroth"/>
         <card number="1" name="Eldrazi Monument"/>
         <card number="1" name="Elspeth Tirel"/>
         <card number="1" name="Elspeth, Sun's Champion"/>
         <card number="1" name="Felidar Retreat"/>
         <card number="10" name="Forest"/>
-        <card number="1" name="Glare of Subdual"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Heliod's Intervention"/>
         <card number="1" name="Hour of Reckoning"/>
@@ -36,7 +33,6 @@
         <card number="9" name="Plains"/>
         <card number="1" name="Primal Vigor"/>
         <card number="1" name="Ram Through"/>
-        <card number="1" name="Runic Armasaur"/>
         <card number="1" name="Secure the Wastes"/>
         <card number="1" name="Seedborn Muse"/>
         <card number="1" name="Shamanic Revelation"/>
@@ -49,28 +45,21 @@
         <card number="1" name="Tempt with Discovery"/>
         <card number="1" name="Three Visits"/>
         <card number="1" name="Thwart the Enemy"/>
-        <card number="1" name="Trostani, Selesnya's Voice"/>
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Voice of Resurgence"/>
-        <card number="1" name="Wayfaring Temple"/>
         <card number="1" name="White Sun's Zenith"/>
-        <card number="1" name="Wilt-Leaf Liege"/>
         <card number="1" name="Wooded Bastion"/>
-        <card number="1" name="Vitu-Ghazi Guildmage"/>
         <card number="1" name="Selesnya Signet"/>
         <card number="1" name="Minas Tirith"/>
         <card number="1" name="Rhys the Redeemed"/>
         <card number="1" name="Esper Sentinel"/>
         <card number="1" name="Emmara, Soul of the Accord"/>
-        <card number="1" name="Vigor"/>
         <card number="1" name="Gyre Sage"/>
         <card number="1" name="Eladamri's Call"/>
         <card number="1" name="Sungrass Prairie"/>
-        <card number="1" name="Second Harvest"/>
         <card number="1" name="Cryptolith Rite"/>
         <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Growing Rites of Itlimoc"/>
-        <card number="1" name="Sylvan Library"/>
         <card number="1" name="Smothering Tithe"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Scattered Groves"/>
@@ -83,13 +72,35 @@
         <card number="1" name="Field of the Dead"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Castle Ardenvale"/>
-        <card number="1" name="Mangara, the Diplomat"/>
-        <card number="1" name="Kamahl, Heart of Krosa"/>
         <card number="1" name="Intangible Virtue"/>
         <card number="1" name="Akroma's Memorial"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Fog"/>
+        <card number="1" name="Toski, Bearer of Secrets"/>
+        <card number="1" name="Mondrak, Glory Dominus"/>
+        <card number="1" name="Ojer Taq, Deepest Foundation"/>
+        <card number="1" name="Anointed Procession"/>
+        <card number="1" name="Circle of Dreams Druid"/>
+        <card number="1" name="Elvish Archdruid"/>
+        <card number="1" name="Caretaker's Talent"/>
+        <card number="1" name="Essence Warden"/>
+        <card number="1" name="Ghalta and Mavren"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Akroma's Memorial"/>
         <card number="1" name="Dictate of Karametra"/>
+        <card number="1" name="Wayfaring Temple"/>
+        <card number="1" name="Wilt-Leaf Liege"/>
+        <card number="1" name="Kamahl, Heart of Krosa"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Runic Armasaur"/>
+        <card number="1" name="Trostani, Selesnya's Voice"/>
+        <card number="1" name="Glare of Subdual"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Second Harvest"/>
+        <card number="1" name="Elder Gargaroth"/>
+        <card number="1" name="Mangara, the Diplomat"/>
+        <card number="1" name="Vitu-Ghazi Guildmage"/>
+        <card number="1" name="Vigor"/>
     </zone>
 </cockatrice_deck>

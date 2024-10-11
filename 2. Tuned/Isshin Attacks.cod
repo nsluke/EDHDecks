@@ -36,8 +36,6 @@
         <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Vault of Champions"/>
-        <card number="1" name="Mana Crypt"/>
-        <card number="1" name="Dockside Extortionist"/>
         <card number="1" name="Dark Ritual"/>
         <card number="1" name="Bruse Tarl, Boorish Herder"/>
         <card number="1" name="Adeline, Resplendent Cathar"/>
@@ -95,11 +93,15 @@
         <card number="1" name="Ilharg, the Raze-Boar"/>
         <card number="1" name="Karlach, Fury of Avernus"/>
         <card number="1" name="Odric, Lunarch Marshal"/>
+        <card number="1" name="Pip-Boy 3000"/>
+        <card number="1" name="Diamond Pick-Axe"/>
     </zone>
     <zone name="side">
         <card number="1" name="Mishra, Lost to Phyrexia"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Godo, Bandit Warlord"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Dockside Extortionist"/>
     </zone>
 </cockatrice_deck>

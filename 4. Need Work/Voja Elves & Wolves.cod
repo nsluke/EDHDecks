@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="All Will Be One"/>
+        <card number="1" name="Allosaurus Shepherd"/>
+        <card number="1" name="Annie Joins Up"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arwen, Weaver of Hope"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Cemetery Prowler"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Circle of Dreams Druid"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Damning Verdict"/>
+        <card number="1" name="Eladamri, Korvecdal"/>
+        <card number="1" name="Elvish Archdruid"/>
+        <card number="1" name="Elvish Champion"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Elvish Warmaster"/>
+        <card number="1" name="Enduring Vitality"/>
+        <card number="1" name="Evolution Witness"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Ezuri, Renegade Leader"/>
+        <card number="1" name="Farewell"/>
+        <card number="1" name="Feed the Pack"/>
+        <card number="8" name="Forest"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Freyalise, Llanowar's Fury"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Galadhrim Ambush"/>
+        <card number="1" name="Gyre Sage"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Lavaspur Boots"/>
+        <card number="1" name="Leaf-Crowned Visionary"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Marwyn, the Nurturer"/>
+        <card number="1" name="Maskwood Nexus"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="5" name="Mountain"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Nightpack Ambusher"/>
+        <card number="1" name="Overgrown Zealot"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Ozolith, the Shattered Spire"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="5" name="Plains"/>
+        <card number="1" name="Priest of Titania"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Roaming Throne"/>
+        <card number="1" name="Rockfall Vale"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Selvala, Heart of the Wilds"/>
+        <card number="1" name="Shalai and Hallar"/>
+        <card number="1" name="Sheltering Landscape"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Stroke of Midnight"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Sword of Body and Mind"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Tolsimir Wolfblood"/>
+        <card number="1" name="Tolsimir, Friend to Wolves"/>
+        <card number="1" name="Tolsimir, Midnight's Light"/>
+        <card number="1" name="Tribute to the World Tree"/>
+        <card number="1" name="Triumph of the Hordes"/>
+        <card number="1" name="Tyvar, the Pummeler"/>
+        <card number="1" name="Uncivil Unrest"/>
+        <card number="1" name="Wolfcaller's Howl"/>
+        <card number="1" name="Wolverine Riders"/>
+        <card number="1" name="Wren's Run Packmaster"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Voja, Jaws of the Conclave"/>
+    </zone>
+</cockatrice_deck>

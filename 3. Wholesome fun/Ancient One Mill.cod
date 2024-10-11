@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Bloodchief Ascension"/>
+        <card number="1" name="Breach the Multiverse"/>
+        <card number="1" name="Bruvac the Grandiloquent"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Consuming Aberration"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Court of Cunning"/>
+        <card number="1" name="Cruel Somnophage // Can't Wake Up"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Damnation"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Darkslick Shores"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Didn't Say Please"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Dissipation Field"/>
+        <card number="1" name="Domineering Will"/>
+        <card number="1" name="Dowsing Dagger"/>
+        <card number="1" name="Dreamborn Muse"/>
+        <card number="1" name="Drown in the Loch"/>
+        <card number="1" name="Eaten by Piranhas"/>
+        <card number="1" name="Ensnaring Bridge"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Extract from Darkness"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Fractured Sanity"/>
+        <card number="1" name="Hedron Crab"/>
+        <card number="1" name="High Tide"/>
+        <card number="1" name="Imprisoned in the Moon"/>
+        <card number="12" name="Island"/>
+        <card number="1" name="Jace Beleren"/>
+        <card number="1" name="Jace, Memory Adept"/>
+        <card number="1" name="Lazav, the Multifarious"/>
+        <card number="1" name="Likeness Looter"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Manic Scribe"/>
+        <card number="1" name="Massacre Girl"/>
+        <card number="1" name="Mesmeric Orb"/>
+        <card number="1" name="Mind Funeral"/>
+        <card number="1" name="Mind Grind"/>
+        <card number="1" name="Mindcrank"/>
+        <card number="1" name="Mindshrieker"/>
+        <card number="1" name="Mortivore"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Nighthowler"/>
+        <card number="1" name="No Mercy"/>
+        <card number="1" name="One Ring to Rule Them All"/>
+        <card number="1" name="Oversold Cemetery"/>
+        <card number="1" name="Palantír of Orthanc"/>
+        <card number="1" name="Psychic Strike"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Ruin Crab"/>
+        <card number="1" name="Sewer Nemesis"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="12" name="Swamp"/>
+        <card number="1" name="Tainted Isle"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Tempt with Immortality"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="The Ancient One"/>
+        <card number="1" name="The Mindskinner"/>
+        <card number="1" name="Thieves' Guild Enforcer"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Virtue of Persistence // Locthwain Scorn"/>
+        <card number="1" name="Whispering Madness"/>
+        <card number="1" name="Wight of Precinct Six"/>
+        <card number="1" name="Zellix, Sanity Flayer"/>
+    </zone>
+</cockatrice_deck>

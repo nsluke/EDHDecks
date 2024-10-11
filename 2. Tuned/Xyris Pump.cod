@@ -20,7 +20,6 @@
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Beamtown Beatstick"/>
         <card number="1" name="Coat of Arms"/>
-        <card number="1" name="Eldrazi Monument"/>
         <card number="1" name="Mithril Coat"/>
         <card number="1" name="Stoneforge Masterwork"/>
         <card number="1" name="Nerd Rage"/>
@@ -87,11 +86,15 @@
         <card number="1" name="Training Center"/>
         <card number="1" name="Rejuvenating Springs"/>
         <card number="1" name="Spire Garden"/>
+        <card number="1" name="Mass Hysteria"/>
+        <card number="1" name="Antagonize"/>
+        <card number="1" name="Concordant Crossroads"/>
     </zone>
     <zone name="side">
         <card number="1" name="Geode Golem"/>
         <card number="1" name="Blossoming Defense"/>
         <card number="1" name="Colossal Growth"/>
         <card number="1" name="Groundswell"/>
+        <card number="1" name="Eldrazi Monument"/>
     </zone>
 </cockatrice_deck>

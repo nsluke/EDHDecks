@@ -53,10 +53,8 @@
         <card number="1" name="Flusterstorm"/>
         <card number="1" name="Carpet of Flowers"/>
         <card number="1" name="Concordant Crossroads"/>
-        <card number="1" name="Dockside Extortionist"/>
         <card number="1" name="Wheel of Fortune"/>
         <card number="1" name="Winds of Change"/>
-        <card number="1" name="Mana Crypt"/>
         <card number="1" name="Molten Psyche"/>
         <card number="1" name="Purphoros, God of the Forge"/>
         <card number="1" name="Minds Aglow"/>
@@ -86,6 +84,8 @@
         <card number="1" name="Maze of Ith"/>
         <card number="1" name="Hellrider"/>
         <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Vedalken Orrery"/>
+        <card number="1" name="Complete the Circuit"/>
     </zone>
     <zone name="side">
         <card number="1" name="Evacuation"/>
@@ -100,5 +100,7 @@
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Ketria Crystal"/>
         <card number="1" name="Teferi's Puzzle Box"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Dockside Extortionist"/>
     </zone>
 </cockatrice_deck>
