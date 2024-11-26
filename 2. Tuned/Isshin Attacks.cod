@@ -3,104 +3,97 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Terramorphic Expanse"/>
-        <card number="5" name="Swamp"/>
-        <card number="3" name="Plains"/>
-        <card number="3" name="Mountain"/>
-        <card number="1" name="Evolving Wilds"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Tajic, Blade of the Legion"/>
-        <card number="1" name="Frontline Medic"/>
-        <card number="1" name="Boros Signet"/>
-        <card number="1" name="Orzhov Signet"/>
-        <card number="1" name="Rakdos Signet"/>
-        <card number="1" name="Comeuppance"/>
-        <card number="1" name="Mortify"/>
-        <card number="1" name="Utter End"/>
-        <card number="1" name="Wear // Tear"/>
-        <card number="1" name="Life's Finale"/>
-        <card number="1" name="Read the Bones"/>
-        <card number="1" name="Vandalblast"/>
-        <card number="1" name="Arid Mesa"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="True Conviction"/>
-        <card number="1" name="Ruinous Ultimatum"/>
-        <card number="1" name="Terminate"/>
-        <card number="1" name="Land Tax"/>
-        <card number="1" name="Mangara, the Diplomat"/>
-        <card number="1" name="Smothering Tithe"/>
-        <card number="1" name="General's Enforcer"/>
-        <card number="1" name="Akroma's Will"/>
-        <card number="1" name="Savai Triome"/>
-        <card number="1" name="Savai Crystal"/>
-        <card number="1" name="Dragonskull Summit"/>
-        <card number="1" name="Sacred Foundry"/>
-        <card number="1" name="Vault of Champions"/>
-        <card number="1" name="Dark Ritual"/>
-        <card number="1" name="Bruse Tarl, Boorish Herder"/>
         <card number="1" name="Adeline, Resplendent Cathar"/>
-        <card number="1" name="Esper Sentinel"/>
-        <card number="1" name="Fireflux Squad"/>
-        <card number="1" name="Blade Historian"/>
-        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Alexios, Deimos of Kosmos"/>
+        <card number="1" name="Andúril, Flame of the West"/>
+        <card number="1" name="Andúril, Narsil Reforged"/>
+        <card number="1" name="Angelfire Ignition"/>
+        <card number="1" name="Arid Mesa"/>
         <card number="1" name="Aurelia, the Warleader"/>
-        <card number="1" name="Etali, Primal Storm"/>
-        <card number="1" name="Skyknight Vanguard"/>
-        <card number="1" name="Captain Lannery Storm"/>
-        <card number="1" name="Krenko, Tin Street Kingpin"/>
-        <card number="1" name="Mishra, Claimed by Gix"/>
-        <card number="1" name="Phyrexian Dragon Engine"/>
-        <card number="1" name="Skyhunter Strike Force"/>
-        <card number="1" name="Emberwilde Captain"/>
+        <card number="1" name="Bitterthorn, Nissa's Animus"/>
+        <card number="1" name="Blade Historian"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Brave the Sands"/>
         <card number="1" name="Breena, the Demagogue"/>
-        <card number="1" name="Iroas, God of Victory"/>
-        <card number="1" name="Goldspan Dragon"/>
-        <card number="1" name="Thundering Raiju"/>
-        <card number="1" name="Fervent Charge"/>
+        <card number="1" name="Brightclimb Pathway"/>
+        <card number="1" name="Bruse Tarl, Boorish Herder"/>
+        <card number="1" name="Captain Lannery Storm"/>
         <card number="1" name="Chivalric Alliance"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Comeuppance"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Concealed Courtyard"/>
         <card number="1" name="Curse of Opulence"/>
-        <card number="1" name="Unquenchable Fury"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Emberwilde Captain"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Ezio, Brash Novice"/>
         <card number="1" name="Fable of the Mirror-Breaker"/>
         <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Sword of the Animist"/>
-        <card number="1" name="Blade of Selves"/>
-        <card number="1" name="Bitterthorn, Nissa's Animus"/>
-        <card number="1" name="Andúril, Flame of the West"/>
-        <card number="1" name="Brave the Sands"/>
-        <card number="1" name="Hero of Bladehold"/>
-        <card number="1" name="Greven, Predator Captain"/>
-        <card number="1" name="Blood Crypt"/>
-        <card number="1" name="Brightclimb Pathway"/>
-        <card number="1" name="Clifftop Retreat"/>
-        <card number="1" name="Concealed Courtyard"/>
+        <card number="1" name="Fervent Charge"/>
+        <card number="1" name="Fireflux Squad"/>
+        <card number="1" name="Firemane Commando"/>
+        <card number="1" name="Frontline Medic"/>
+        <card number="1" name="General's Enforcer"/>
         <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Greven, Predator Captain"/>
         <card number="1" name="Hanweir Battlements"/>
         <card number="1" name="Haunted Ridge"/>
+        <card number="1" name="Hero of Bladehold"/>
+        <card number="1" name="Ilharg, the Raze-Boar"/>
+        <card number="1" name="Iroas, God of Victory"/>
         <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Isshin, Two Heavens as One"/>
+        <card number="1" name="Karlach, Fury of Avernus"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Land Tax"/>
+        <card number="1" name="Life's Finale"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Mangara, the Diplomat"/>
         <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Mishra, Claimed by Gix"/>
+        <card number="1" name="Mortify"/>
+        <card number="3" name="Mountain"/>
         <card number="1" name="Needleverge Pathway"/>
+        <card number="1" name="Odric, Lunarch Marshal"/>
+        <card number="1" name="Odric, Master Tactician"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Phyrexian Dragon Engine"/>
+        <card number="1" name="Pip-Boy 3000"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Ruinous Ultimatum"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Sardian Avenger"/>
+        <card number="1" name="Savai Crystal"/>
+        <card number="1" name="Savai Triome"/>
         <card number="1" name="Shattered Sanctum"/>
+        <card number="1" name="Skyhunter Strike Force"/>
+        <card number="1" name="Skyknight Vanguard"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Sol Ring"/>
         <card number="1" name="Spectator Seating"/>
         <card number="1" name="Sundown Pass"/>
-        <card number="1" name="Isshin, Two Heavens as One"/>
-        <card number="1" name="Sardian Avenger"/>
-        <card number="1" name="Andúril, Narsil Reforged"/>
-        <card number="1" name="Firemane Commando"/>
-        <card number="1" name="Odric, Master Tactician"/>
-        <card number="1" name="Luxury Suite"/>
-        <card number="1" name="Graven Cairns"/>
-        <card number="1" name="Ilharg, the Raze-Boar"/>
-        <card number="1" name="Karlach, Fury of Avernus"/>
-        <card number="1" name="Odric, Lunarch Marshal"/>
-        <card number="1" name="Pip-Boy 3000"/>
-        <card number="1" name="Diamond Pick-Axe"/>
-    </zone>
-    <zone name="side">
-        <card number="1" name="Mishra, Lost to Phyrexia"/>
-        <card number="1" name="Sun Titan"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Godo, Bandit Warlord"/>
-        <card number="1" name="Mana Crypt"/>
-        <card number="1" name="Dockside Extortionist"/>
+        <card number="5" name="Swamp"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Tajic, Blade of the Legion"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Thundering Raiju"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Unquenchable Fury"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Wear // Tear"/>
     </zone>
 </cockatrice_deck>
